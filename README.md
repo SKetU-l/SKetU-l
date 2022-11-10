@@ -6,5 +6,5 @@
 
 ### If you want to contact me
 
-Hop in my pm at [Telegram](https://t.me/SKetUl)
+ Contact me [Telegram](https://t.me/SKetUl)
 
