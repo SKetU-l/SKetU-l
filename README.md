@@ -4,7 +4,7 @@
 
 #
 
-### If you want to contact me
+### If you want to know me
 
  Contact me [Telegram](https://t.me/SKetUl)
 
