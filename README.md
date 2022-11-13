@@ -1,6 +1,6 @@
 ## Hi there, I'm SKetU.
 ###
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SKetU-l&hide=prs&show_icons=true&theme=buefy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SKetU-l&hide=prs&show_icons=true&theme=red)
 
 #
 
