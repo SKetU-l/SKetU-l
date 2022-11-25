@@ -4,7 +4,7 @@
 
 # Currently using Asus Zenfone Max Pro M1 
 # Maintainer of [RiceDriod](https://github.com/RiceDroid) for X00TD/X00T
-
+# Here's my Telegram [Group](https://t.me/X00TDDISC)
 ### If you want to know me 
 
  Contact me [Telegram](https://t.me/SKetUl)
