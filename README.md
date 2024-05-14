@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It is the greatest of all mistakes to do nothing because you can only do little; do something.&rdquo; <footer>Sydney Smith</footer></blockquote>
+# <blockquote>&ldquo;It is dangerous to be right in matters on which the established authorities are wrong.&rdquo; <footer>Voltaire</footer></blockquote>
