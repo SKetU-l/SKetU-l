@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It is dangerous to be right in matters on which the established authorities are wrong.&rdquo; <footer>Voltaire</footer></blockquote>
+# <blockquote>&ldquo;Never let the things you can't do stop you from doing what you can.&rdquo; <footer>Ronald Reagan</footer></blockquote>
