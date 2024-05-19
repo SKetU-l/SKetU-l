@@ -1,12 +1,5 @@
 import requests
 import subprocess
-import schedule
-import time
-import datetime
-from dateutil import tz
-
-UTC = tz.gettz('Etc/UTC')
-IST = tz.gettz('Asia/Kolkata')
 
 def update():
     response = requests.get('https://zenquotes.io/api/random')
@@ -28,14 +21,4 @@ def update():
     subprocess.run(['git', 'push'])
     print("Prepended.")
 
-def next_run():
-    utc_time = datetime.datetime.now(UTC)
-    ist_time = utc_time.astimezone(IST)
-    target_time = ist_time.replace(hour=00, minute=00, second=0, microsecond=0)
-    target_time_utc = target_time.astimezone(UTC)
-    schedule.every().day.at(target_time_utc.strftime('%H:%M')).do(update)
-
-next_run()
-while True:
-    schedule.run_pending()
-    time.sleep(1)
+update()
