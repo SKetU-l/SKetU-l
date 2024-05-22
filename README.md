@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Never let the things you can't do stop you from doing what you can.&rdquo; <footer>Ronald Reagan</footer></blockquote>
+# <blockquote>&ldquo;Life happens in the river, not the shore.&rdquo; <footer>Maxime Lagace</footer></blockquote>
