@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you want peace, accept. If you want suffering, expect.&rdquo; <footer>Maxime Lagace</footer></blockquote>
+# <blockquote>&ldquo;Relax. Nothing is under control.&rdquo; <footer>Adi Da Samraj</footer></blockquote>
