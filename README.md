@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Relax. Nothing is under control.&rdquo; <footer>Adi Da Samraj</footer></blockquote>
+# <blockquote>&ldquo;Life is one long process of getting tired.&rdquo; <footer>Samuel Butler</footer></blockquote>
