@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;In the middle of chaos lies opportunity.  &rdquo; <footer>Bruce Lee</footer></blockquote>
+# <blockquote>&ldquo;Life and the simple beauty of it is too good to pass up.&rdquo; <footer>Christopher McCandless</footer></blockquote>
