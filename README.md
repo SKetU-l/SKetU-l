@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Life and the simple beauty of it is too good to pass up.&rdquo; <footer>Christopher McCandless</footer></blockquote>
+# <blockquote>&ldquo;Nothing good ever comes of violence.&rdquo; <footer>Martin Luther</footer></blockquote>
