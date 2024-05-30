@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Nothing good ever comes of violence.&rdquo; <footer>Martin Luther</footer></blockquote>
+# <blockquote>&ldquo;The roots of education are bitter, but the fruit is sweet.&rdquo; <footer>Aristotle</footer></blockquote>
