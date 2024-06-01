@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There is nothing like looking if you want to find something.&rdquo; <footer>J.R.R. Tolkien</footer></blockquote>
+# <blockquote>&ldquo;There are no mistakes in life, only lessons.&rdquo; <footer>Robin Sharma</footer></blockquote>
