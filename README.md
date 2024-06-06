@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;We would accomplish many more things if we did not think of them as impossible.&rdquo; <footer>Vince Lombardi</footer></blockquote>
+# <blockquote>&ldquo;Know yourself and you will win all battles.&rdquo; <footer>Sun Tzu</footer></blockquote>
