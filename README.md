@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Know yourself and you will win all battles.&rdquo; <footer>Sun Tzu</footer></blockquote>
+# <blockquote>&ldquo;This is such a short and precious life that it's really important that you don't spend it being unhappy.&rdquo; <footer>Naval Ravikant</footer></blockquote>
