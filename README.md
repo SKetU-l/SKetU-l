@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Knowledge has to be improved, challenged, and increased constantly, or it vanishes.&rdquo; <footer>Peter Drucker</footer></blockquote>
+# <blockquote>&ldquo;The day is for honest men, the night for thieves.&rdquo; <footer>Euripides</footer></blockquote>
