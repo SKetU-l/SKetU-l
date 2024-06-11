@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.&rdquo; <footer>Zig Ziglar</footer></blockquote>
+# <blockquote>&ldquo;You're only given a little spark of madness. You mustn't lose it.&rdquo; <footer>Robin Williams</footer></blockquote>
