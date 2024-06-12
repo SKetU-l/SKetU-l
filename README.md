@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You're only given a little spark of madness. You mustn't lose it.&rdquo; <footer>Robin Williams</footer></blockquote>
+# <blockquote>&ldquo;The biggest adventure is what lies ahead.&rdquo; <footer>J.R.R. Tolkien</footer></blockquote>
