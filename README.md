@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;No man will make a great leader who wants to do it all himself or to get all the credit for doing it.&rdquo; <footer>Andrew Carnegie</footer></blockquote>
+# <blockquote>&ldquo;You must be willing to do what others won't do, to have what others won't have.&rdquo; <footer>Les Brown</footer></blockquote>
