@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You must be willing to do what others won't do, to have what others won't have.&rdquo; <footer>Les Brown</footer></blockquote>
+# <blockquote>&ldquo;Most people spend more time and energy going around problems than in trying to solve them. &rdquo; <footer>Henry Ford</footer></blockquote>
