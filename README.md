@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Most people spend more time and energy going around problems than in trying to solve them. &rdquo; <footer>Henry Ford</footer></blockquote>
+# <blockquote>&ldquo;The biggest adventure you can ever take is to live the life of your dreams. &rdquo; <footer>Oprah Winfrey</footer></blockquote>
