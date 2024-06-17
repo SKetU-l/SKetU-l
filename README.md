@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The biggest adventure you can ever take is to live the life of your dreams. &rdquo; <footer>Oprah Winfrey</footer></blockquote>
+# <blockquote>&ldquo;The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.&rdquo; <footer>Bhagavad Gita</footer></blockquote>
