@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The spirit is beyond destruction. No one can bring an end to spirit which is everlasting.&rdquo; <footer>Bhagavad Gita</footer></blockquote>
+# <blockquote>&ldquo;He that can have patience can have what he will.&rdquo; <footer>Benjamin Franklin</footer></blockquote>
