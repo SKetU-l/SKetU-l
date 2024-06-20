@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
+# <blockquote>&ldquo;True it is, we only hate those whom we do not know.&rdquo; <footer>Andrew Carnegie</footer></blockquote>
