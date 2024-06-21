@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;True it is, we only hate those whom we do not know.&rdquo; <footer>Andrew Carnegie</footer></blockquote>
+# <blockquote>&ldquo;The right thing to do and the hard thing to do are usually the same.&rdquo; <footer>Steve Maraboli</footer></blockquote>
