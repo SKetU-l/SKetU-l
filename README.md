@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The right thing to do and the hard thing to do are usually the same.&rdquo; <footer>Steve Maraboli</footer></blockquote>
+# <blockquote>&ldquo;Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.&rdquo; <footer>Anne Wilson Schaef</footer></blockquote>
