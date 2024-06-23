@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.&rdquo; <footer>Anne Wilson Schaef</footer></blockquote>
+# <blockquote>&ldquo;Most people get ahead during the time that others waste.&rdquo; <footer>Henry Ford</footer></blockquote>
