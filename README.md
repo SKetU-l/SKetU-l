@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Most people get ahead during the time that others waste.&rdquo; <footer>Henry Ford</footer></blockquote>
+# <blockquote>&ldquo;Life is ours to be spent, not to be saved. &rdquo; <footer>D. H. Lawrence</footer></blockquote>
