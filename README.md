@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Life is ours to be spent, not to be saved. &rdquo; <footer>D. H. Lawrence</footer></blockquote>
+# <blockquote>&ldquo;We don't stop playing because we grow old; we grow old because we stop playing.&rdquo; <footer>George Bernard Shaw</footer></blockquote>
