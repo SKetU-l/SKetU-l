@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;What worries you, masters you.&rdquo; <footer>John Locke</footer></blockquote>
+# <blockquote>&ldquo;It doesn't matter how slow you go, as long as you don't stop.&rdquo; <footer>Confucius</footer></blockquote>
