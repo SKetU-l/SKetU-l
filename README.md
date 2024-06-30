@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Tis not too late to seek a newer world.&rdquo; <footer>Heraclitus</footer></blockquote>
+# <blockquote>&ldquo;You can't have anything worthwhile without difficulties.&rdquo; <footer>Harry S. Truman</footer></blockquote>
