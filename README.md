@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You can't have anything worthwhile without difficulties.&rdquo; <footer>Harry S. Truman</footer></blockquote>
+# <blockquote>&ldquo;It does not matter how slowly you go so long as you do not stop.&rdquo; <footer>Confucius</footer></blockquote>
