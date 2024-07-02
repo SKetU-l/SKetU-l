@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It does not matter how slowly you go so long as you do not stop.&rdquo; <footer>Confucius</footer></blockquote>
+# <blockquote>&ldquo;If a thing is worth doing, it is worth doing badly.&rdquo; <footer>Gilbert Chesterton</footer></blockquote>
