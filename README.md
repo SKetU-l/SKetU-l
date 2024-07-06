@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone.&rdquo; <footer>Kahlil Gibran</footer></blockquote>
+# <blockquote>&ldquo;To be fully alive is to feel that everything is possible.&rdquo; <footer>Eric Hoffer</footer></blockquote>
