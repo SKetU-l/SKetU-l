@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To be fully alive is to feel that everything is possible.&rdquo; <footer>Eric Hoffer</footer></blockquote>
+# <blockquote>&ldquo;The degree of responsibility you take for your life determines how much change you can create in it.&rdquo; <footer>Celestine Chua</footer></blockquote>
