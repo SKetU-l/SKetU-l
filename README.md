@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The degree of responsibility you take for your life determines how much change you can create in it.&rdquo; <footer>Celestine Chua</footer></blockquote>
+# <blockquote>&ldquo;If I have seen further than others, it is by standing upon the shoulders of giants.&rdquo; <footer>Isaac Newton</footer></blockquote>
