@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If I have seen further than others, it is by standing upon the shoulders of giants.&rdquo; <footer>Isaac Newton</footer></blockquote>
+# <blockquote>&ldquo;The danger of an adventure is worth a thousand days of ease and comfort.&rdquo; <footer>Paulo Coelho</footer></blockquote>
