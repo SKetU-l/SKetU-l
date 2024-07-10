@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The danger of an adventure is worth a thousand days of ease and comfort.&rdquo; <footer>Paulo Coelho</footer></blockquote>
+# <blockquote>&ldquo;We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.&rdquo; <footer>Gabor Mate</footer></blockquote>
