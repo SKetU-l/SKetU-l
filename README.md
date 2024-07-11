@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world.&rdquo; <footer>Gabor Mate</footer></blockquote>
+# <blockquote>&ldquo;If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.&rdquo; <footer>Jon Kabat-Zinn</footer></blockquote>
