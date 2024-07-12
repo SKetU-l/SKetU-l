@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear.&rdquo; <footer>Jon Kabat-Zinn</footer></blockquote>
+# <blockquote>&ldquo;Failure is the key to success; each mistake teaches us something.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
