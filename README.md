@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Failure is the key to success; each mistake teaches us something.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
+# <blockquote>&ldquo;If you build the guts to do something, anything, then you better save enough to face the consequences.&rdquo; <footer>Criss Jami</footer></blockquote>
