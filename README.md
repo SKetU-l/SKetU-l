@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you build the guts to do something, anything, then you better save enough to face the consequences.&rdquo; <footer>Criss Jami</footer></blockquote>
+# <blockquote>&ldquo;There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. &rdquo; <footer>Orison Swett Marden</footer></blockquote>
