@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The privilege of a lifetime is to become who you truly are.&rdquo; <footer>Carl Jung</footer></blockquote>
+# <blockquote>&ldquo;The act of taking the first step is what separates the winners from the losers.&rdquo; <footer>Brian Tracy</footer></blockquote>
