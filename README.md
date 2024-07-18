@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Life can be wonderful if you're not afraid of it.&rdquo; <footer>Charlie Chaplin</footer></blockquote>
+# <blockquote>&ldquo;Always try to be a little kinder than necessary.&rdquo; <footer>James Matthew Barrie</footer></blockquote>
