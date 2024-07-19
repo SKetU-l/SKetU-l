@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Always try to be a little kinder than necessary.&rdquo; <footer>James Matthew Barrie</footer></blockquote>
+# <blockquote>&ldquo;You don't have to control your thoughts; you just have to stop letting them control you.&rdquo; <footer>Dan Millman</footer></blockquote>
