@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You don't have to control your thoughts; you just have to stop letting them control you.&rdquo; <footer>Dan Millman</footer></blockquote>
+# <blockquote>&ldquo;Life happens in the river, not the shore.&rdquo; <footer>Maxime Lagace</footer></blockquote>
