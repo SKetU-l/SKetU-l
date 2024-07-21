@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Life happens in the river, not the shore.&rdquo; <footer>Maxime Lagace</footer></blockquote>
+# <blockquote>&ldquo;Your chances of success in any undertaking can always be measured by your belief in yourself.&rdquo; <footer>Robert Collier</footer></blockquote>
