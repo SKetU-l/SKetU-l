@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The more often a stupidity is repeated, the more it gets the appearance of wisdom.&rdquo; <footer>Voltaire</footer></blockquote>
+# <blockquote>&ldquo;You are free, and that is why you are lost.&rdquo; <footer>Franz Kafka</footer></blockquote>
