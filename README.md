@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't let them drag you down by rumors. Just go with what you believe in.&rdquo; <footer>Michael Jordan</footer></blockquote>
+# <blockquote>&ldquo;Charms strike the sight, but merit wins the soul.&rdquo; <footer>Alexander Pope</footer></blockquote>
