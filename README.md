@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Charms strike the sight, but merit wins the soul.&rdquo; <footer>Alexander Pope</footer></blockquote>
+# <blockquote>&ldquo;When we strive to become better than we are, everything around us becomes better, too.&rdquo; <footer>Paulo Coelho</footer></blockquote>
