@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;In nature there is no alienation. Everything belongs.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
+# <blockquote>&ldquo;The ego wants comfort and certainty. The soul wants to live fully.&rdquo; <footer>Maxime Lagace</footer></blockquote>
