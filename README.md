@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The ego wants comfort and certainty. The soul wants to live fully.&rdquo; <footer>Maxime Lagace</footer></blockquote>
+# <blockquote>&ldquo;To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.&rdquo; <footer>Pema Chodron</footer></blockquote>
