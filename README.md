@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.&rdquo; <footer>Pema Chodron</footer></blockquote>
+# <blockquote>&ldquo;Distant water does not put out a nearby fire.&rdquo; <footer>Chinese Proverb</footer></blockquote>
