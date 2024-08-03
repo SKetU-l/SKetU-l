@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Distant water does not put out a nearby fire.&rdquo; <footer>Chinese Proverb</footer></blockquote>
+# <blockquote>&ldquo;If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.&rdquo; <footer>Robert Kiyosaki</footer></blockquote>
