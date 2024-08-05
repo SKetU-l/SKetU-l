@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results.&rdquo; <footer>Tony Robbins</footer></blockquote>
+# <blockquote>&ldquo;You can't get to a place that you don't believe exists.&rdquo; <footer>Unknown</footer></blockquote>
