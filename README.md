@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.&rdquo; <footer>Bhagavad Gita</footer></blockquote>
+# <blockquote>&ldquo;The chief cause of failure and unhappiness is trading what you want most for what you want right now.&rdquo; <footer>Zig Ziglar</footer></blockquote>
