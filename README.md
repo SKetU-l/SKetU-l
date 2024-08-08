@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The chief cause of failure and unhappiness is trading what you want most for what you want right now.&rdquo; <footer>Zig Ziglar</footer></blockquote>
+# <blockquote>&ldquo;The score never interested me, only the game.&rdquo; <footer>Mae West</footer></blockquote>
