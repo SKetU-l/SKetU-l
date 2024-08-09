@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The score never interested me, only the game.&rdquo; <footer>Mae West</footer></blockquote>
+# <blockquote>&ldquo;There is always risk, so learn to manage risk instead of avoiding it.&rdquo; <footer>Robert Kiyosaki</footer></blockquote>
