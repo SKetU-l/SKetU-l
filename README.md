@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There is always risk, so learn to manage risk instead of avoiding it.&rdquo; <footer>Robert Kiyosaki</footer></blockquote>
+# <blockquote>&ldquo;The chief enemy of creativity is good sense.&rdquo; <footer>Pablo Picasso</footer></blockquote>
