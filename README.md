@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The chief enemy of creativity is good sense.&rdquo; <footer>Pablo Picasso</footer></blockquote>
+# <blockquote>&ldquo;You cannot push anyone up a ladder unless he is willing to climb a little himself.&rdquo; <footer>Andrew Carnegie</footer></blockquote>
