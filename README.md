@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You cannot push anyone up a ladder unless he is willing to climb a little himself.&rdquo; <footer>Andrew Carnegie</footer></blockquote>
+# <blockquote>&ldquo;The best of us sometimes eat our words.  &rdquo; <footer>Albus Dumbledore</footer></blockquote>
