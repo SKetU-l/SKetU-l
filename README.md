@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The truly rich men are the ones who have health, loved ones and a work they love.&rdquo; <footer>Maxime Lagace</footer></blockquote>
+# <blockquote>&ldquo;He who is untrue to his own cause cannot command the respect of others.&rdquo; <footer>Albert Einstein</footer></blockquote>
