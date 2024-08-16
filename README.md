@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;One day, in retrospect, the years of struggle will strike you as the most beautiful.&rdquo; <footer>Sigmund Freud</footer></blockquote>
+# <blockquote>&ldquo;All life is a manifestation of the spirit, the manifestation of love.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
