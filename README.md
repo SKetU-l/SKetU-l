@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;All life is a manifestation of the spirit, the manifestation of love.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
+# <blockquote>&ldquo;In all chaos there is a cosmos, in all disorder a secret order.&rdquo; <footer>Carl Jung</footer></blockquote>
