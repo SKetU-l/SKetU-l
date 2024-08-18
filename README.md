@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;In all chaos there is a cosmos, in all disorder a secret order.&rdquo; <footer>Carl Jung</footer></blockquote>
+# <blockquote>&ldquo;Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.&rdquo; <footer>Brian Tracy</footer></blockquote>
