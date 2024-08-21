@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Nothing can bring you peace but yourself.&rdquo; <footer>Dale Carnegie</footer></blockquote>
+# <blockquote>&ldquo;The road to success and the road to failure are almost exactly the same.&rdquo; <footer>Colin R. Davis</footer></blockquote>
