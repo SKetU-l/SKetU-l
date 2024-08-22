@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The road to success and the road to failure are almost exactly the same.&rdquo; <footer>Colin R. Davis</footer></blockquote>
+# <blockquote>&ldquo;Confuse them with your silence and amaze them with your actions.&rdquo; <footer>Unknown</footer></blockquote>
