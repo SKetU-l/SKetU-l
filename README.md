@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The smallest of actions is always better than the noblest of intentions.&rdquo; <footer>Robin Sharma</footer></blockquote>
+# <blockquote>&ldquo;Don't wait for the right opportunity: create it.&rdquo; <footer>George Bernard Shaw</footer></blockquote>
