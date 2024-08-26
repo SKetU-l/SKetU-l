@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't wait for the right opportunity: create it.&rdquo; <footer>George Bernard Shaw</footer></blockquote>
+# <blockquote>&ldquo;Difficult and meaningful will always bring more satisfaction than easy and meaningless.&rdquo; <footer>Maxime Lagace</footer></blockquote>
