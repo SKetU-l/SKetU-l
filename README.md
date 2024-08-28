@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Words used to attract the dull of wit are not to be relied on.&rdquo; <footer>Huang Po</footer></blockquote>
+# <blockquote>&ldquo;Nothing is too high for a man to reach, but he must climb with care and confidence&rdquo; <footer>Hans Christian Andersen</footer></blockquote>
