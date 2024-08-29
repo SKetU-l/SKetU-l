@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Nothing is too high for a man to reach, but he must climb with care and confidence&rdquo; <footer>Hans Christian Andersen</footer></blockquote>
+# <blockquote>&ldquo;In order to control myself I must first accept myself by going with and not against my nature.&rdquo; <footer>Bruce Lee</footer></blockquote>
