@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;In order to control myself I must first accept myself by going with and not against my nature.&rdquo; <footer>Bruce Lee</footer></blockquote>
+# <blockquote>&ldquo;Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.&rdquo; <footer>Gary Keller</footer></blockquote>
