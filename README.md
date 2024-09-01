@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Failure means you've now learned another valuable lesson that pushes you one step closer to success.&rdquo; <footer>Steve Harvey</footer></blockquote>
+# <blockquote>&ldquo;Fools resist. The wise embrace.&rdquo; <footer>Maxime Lagace</footer></blockquote>
