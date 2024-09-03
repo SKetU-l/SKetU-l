@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Love never keeps a man from pursuing his destiny.&rdquo; <footer>Paulo Coelho</footer></blockquote>
+# <blockquote>&ldquo;There are no uninteresting things, only uninterested people.&rdquo; <footer>Gilbert Chesterton</footer></blockquote>
