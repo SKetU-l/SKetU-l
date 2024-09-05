@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Those who can make you believe absurdities can make you commit atrocities. &rdquo; <footer>Voltaire</footer></blockquote>
+# <blockquote>&ldquo;Difficult roads often lead to beautiful destinations.&rdquo; <footer>Unknown</footer></blockquote>
