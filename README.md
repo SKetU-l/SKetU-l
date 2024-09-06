@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Difficult roads often lead to beautiful destinations.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.&rdquo; <footer>Eleanor Roosevelt</footer></blockquote>
