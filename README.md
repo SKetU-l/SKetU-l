@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Man suffers only because he takes seriously what the gods made for fun.&rdquo; <footer>Alan Watts</footer></blockquote>
+# <blockquote>&ldquo;Over time, loneliness gets inside you and doesn't go away.&rdquo; <footer>Carlos Ruiz Zafon</footer></blockquote>
