@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Over time, loneliness gets inside you and doesn't go away.&rdquo; <footer>Carlos Ruiz Zafon</footer></blockquote>
+# <blockquote>&ldquo;You can easily judge the character of a man by how he treats those who can do nothing for him.&rdquo; <footer>Simon Sinek</footer></blockquote>
