@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Absorb what is useful, discard what is useless and add what is specifically your own.  &rdquo; <footer>Bruce Lee</footer></blockquote>
+# <blockquote>&ldquo;Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.&rdquo; <footer>William James</footer></blockquote>
