@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.&rdquo; <footer>William James</footer></blockquote>
+# <blockquote>&ldquo;Longevity is a fleeting moment that lasts forever.&rdquo; <footer>Vidal Sassoon</footer></blockquote>
