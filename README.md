@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Longevity is a fleeting moment that lasts forever.&rdquo; <footer>Vidal Sassoon</footer></blockquote>
+# <blockquote>&ldquo;I would rather die on my feet than live on my knees.&rdquo; <footer>Euripides</footer></blockquote>
