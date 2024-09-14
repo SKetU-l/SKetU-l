@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;I would rather die on my feet than live on my knees.&rdquo; <footer>Euripides</footer></blockquote>
+# <blockquote>&ldquo;You are today where your thoughts have brought you.&rdquo; <footer>James Allen</footer></blockquote>
