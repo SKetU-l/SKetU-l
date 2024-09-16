@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Whether you think you can or think you can't – you are right.&rdquo; <footer>Henry Ford</footer></blockquote>
+# <blockquote>&ldquo;Turn the pain into power.&rdquo; <footer>Unknown</footer></blockquote>
