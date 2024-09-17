@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Turn the pain into power.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;Wheels of justice grind slow but grind fine.&rdquo; <footer>Sun Tzu</footer></blockquote>
