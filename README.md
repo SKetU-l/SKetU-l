@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Wheels of justice grind slow but grind fine.&rdquo; <footer>Sun Tzu</footer></blockquote>
+# <blockquote>&ldquo;Never stand begging for that which you have the power to earn.&rdquo; <footer>Miguel de Cervantes</footer></blockquote>
