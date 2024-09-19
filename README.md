@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Never stand begging for that which you have the power to earn.&rdquo; <footer>Miguel de Cervantes</footer></blockquote>
+# <blockquote>&ldquo;Don't be afraid that you do not know something. Be afraid of not learning about it.&rdquo; <footer>Zen Proverb</footer></blockquote>
