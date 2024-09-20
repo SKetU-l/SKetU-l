@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't be afraid that you do not know something. Be afraid of not learning about it.&rdquo; <footer>Zen Proverb</footer></blockquote>
+# <blockquote>&ldquo;A gentleman is one who puts more into the world than he takes out.&rdquo; <footer>George Bernard Shaw</footer></blockquote>
