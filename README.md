@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A gentleman is one who puts more into the world than he takes out.&rdquo; <footer>George Bernard Shaw</footer></blockquote>
+# <blockquote>&ldquo;What we know is a drop, what we don't know is an ocean. &rdquo; <footer>Isaac Newton</footer></blockquote>
