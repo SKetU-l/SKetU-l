@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;What we know is a drop, what we don't know is an ocean. &rdquo; <footer>Isaac Newton</footer></blockquote>
+# <blockquote>&ldquo;Life's too mysterious to take too serious.&rdquo; <footer>Mary Engelbreit</footer></blockquote>
