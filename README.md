@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you correct your mind, the rest of your life will fall into place.&rdquo; <footer>Lao Tzu</footer></blockquote>
+# <blockquote>&ldquo;Go for it now. The future is promised to no one. &rdquo; <footer>Wayne Dyer</footer></blockquote>
