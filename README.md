@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Go for it now. The future is promised to no one. &rdquo; <footer>Wayne Dyer</footer></blockquote>
+# <blockquote>&ldquo;If you don't know where you're going, you will probably end up somewhere else.&rdquo; <footer>Laurence J. Peter</footer></blockquote>
