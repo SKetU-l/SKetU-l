@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you don't know where you're going, you will probably end up somewhere else.&rdquo; <footer>Laurence J. Peter</footer></blockquote>
+# <blockquote>&ldquo;Don't let the past steal your present.&rdquo; <footer>Cherralea Morgen</footer></blockquote>
