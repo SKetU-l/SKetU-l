@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.&rdquo; <footer>Benjamin Mays</footer></blockquote>
+# <blockquote>&ldquo;You can't let your failures define you. You have to let your failures teach you.&rdquo; <footer>Barack Obama</footer></blockquote>
