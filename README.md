@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You can't let your failures define you. You have to let your failures teach you.&rdquo; <footer>Barack Obama</footer></blockquote>
+# <blockquote>&ldquo;Open your eyes and look within. Are you satisfied with the life you're living?&rdquo; <footer>Bob Marley</footer></blockquote>
