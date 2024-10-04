@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society.&rdquo; <footer>Jiddu Krishnamurti</footer></blockquote>
+# <blockquote>&ldquo;The trouble with most of us is that we'd rather be ruined by praise than saved by criticism.&rdquo; <footer>Norman Vincent Peale</footer></blockquote>
