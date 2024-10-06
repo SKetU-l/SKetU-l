@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Patience expands your options. If you insist on immediate gratification, your choices are severely limited.&rdquo; <footer>Ralph Marston</footer></blockquote>
+# <blockquote>&ldquo;If it is not right, do not do it, if it is not true, do not say it.&rdquo; <footer>Marcus Aurelius</footer></blockquote>
