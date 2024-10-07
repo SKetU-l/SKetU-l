@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If it is not right, do not do it, if it is not true, do not say it.&rdquo; <footer>Marcus Aurelius</footer></blockquote>
+# <blockquote>&ldquo;I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.&rdquo; <footer>Elon Musk</footer></blockquote>
