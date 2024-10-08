@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.&rdquo; <footer>Elon Musk</footer></blockquote>
+# <blockquote>&ldquo;A day wasted on others is not wasted on one's self.&rdquo; <footer>Charles Dickens</footer></blockquote>
