@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A day wasted on others is not wasted on one's self.&rdquo; <footer>Charles Dickens</footer></blockquote>
+# <blockquote>&ldquo;A man that flies from his fear may find that he has only taken a short cut to meet it.&rdquo; <footer>J.R.R. Tolkien</footer></blockquote>
