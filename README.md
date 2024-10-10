@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A man that flies from his fear may find that he has only taken a short cut to meet it.&rdquo; <footer>J.R.R. Tolkien</footer></blockquote>
+# <blockquote>&ldquo;Attitude, not aptitude, determines altitude.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
