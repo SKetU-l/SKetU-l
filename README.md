@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Attitude, not aptitude, determines altitude.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
+# <blockquote>&ldquo;There's more to life than being a passenger.&rdquo; <footer>Amelia Earhart</footer></blockquote>
