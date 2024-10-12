@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There's more to life than being a passenger.&rdquo; <footer>Amelia Earhart</footer></blockquote>
+# <blockquote>&ldquo;Don't criticize what you can't understand. &rdquo; <footer>Bob Dylan</footer></blockquote>
