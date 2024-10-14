@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you believe you can, you can. If you believe you can't, then, well you can't.&rdquo; <footer>Celestine Chua</footer></blockquote>
+# <blockquote>&ldquo;Those who are enlightened never stop forging themselves.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
