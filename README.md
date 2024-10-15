@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Those who are enlightened never stop forging themselves.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
+# <blockquote>&ldquo;We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.&rdquo; <footer>Vaclav Havel</footer></blockquote>
