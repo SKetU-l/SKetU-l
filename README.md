@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.&rdquo; <footer>Vaclav Havel</footer></blockquote>
+# <blockquote>&ldquo;Everything will be ok in the end. If it's not ok, it's not the end.&rdquo; <footer>John Lennon</footer></blockquote>
