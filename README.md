@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Live and act within the limit of your knowledge and keep expanding it to the limit of your life.&rdquo; <footer>Ayn Rand</footer></blockquote>
+# <blockquote>&ldquo;A self that goes on changing is a self that goes on living.&rdquo; <footer>Virginia Woolf</footer></blockquote>
