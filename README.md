@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A self that goes on changing is a self that goes on living.&rdquo; <footer>Virginia Woolf</footer></blockquote>
+# <blockquote>&ldquo;Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.&rdquo; <footer>Richard Bach</footer></blockquote>
