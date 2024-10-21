@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Every day do something that will inch you closer to a better tomorrow.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;Expect the best of yourself, and then do what is necessary to make it a reality.&rdquo; <footer>Ralph Marston</footer></blockquote>
