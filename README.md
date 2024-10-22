@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Expect the best of yourself, and then do what is necessary to make it a reality.&rdquo; <footer>Ralph Marston</footer></blockquote>
+# <blockquote>&ldquo;Your world is a living expression of how you are using and have used your mind.&rdquo; <footer>Earl Nightingale</footer></blockquote>
