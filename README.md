@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Your world is a living expression of how you are using and have used your mind.&rdquo; <footer>Earl Nightingale</footer></blockquote>
+# <blockquote>&ldquo;If you can't, you must. If you must, you can.&rdquo; <footer>Tony Robbins</footer></blockquote>
