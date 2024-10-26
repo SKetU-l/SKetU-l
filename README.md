@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Behind every cloud is another cloud.&rdquo; <footer>Judy Garland</footer></blockquote>
+# <blockquote>&ldquo;Each day provides it's own gifts.&rdquo; <footer>Marcus Aurelius</footer></blockquote>
