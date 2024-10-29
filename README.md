@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When a man is penalized for honesty he learns to lie.&rdquo; <footer>Criss Jami</footer></blockquote>
+# <blockquote>&ldquo;Discipline is the mark of intelligent living.&rdquo; <footer>Sathya Sai Baba</footer></blockquote>
