@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't live the same year 75 times and call it a life.&rdquo; <footer>Robin Sharma</footer></blockquote>
+# <blockquote>&ldquo;Identification with our mind causes thought to become compulsive.&rdquo; <footer>Eckhart Tolle</footer></blockquote>
