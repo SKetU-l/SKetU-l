@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Identification with our mind causes thought to become compulsive.&rdquo; <footer>Eckhart Tolle</footer></blockquote>
+# <blockquote>&ldquo;When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.&rdquo; <footer>Sonia Ricotti</footer></blockquote>
