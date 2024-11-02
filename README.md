@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.&rdquo; <footer>Sonia Ricotti</footer></blockquote>
+# <blockquote>&ldquo;It is easier to fight for one's principles than to live up to them. &rdquo; <footer>Alfred Adler</footer></blockquote>
