@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It is easier to fight for one's principles than to live up to them. &rdquo; <footer>Alfred Adler</footer></blockquote>
+# <blockquote>&ldquo;Life is the dancer and you are the dance.&rdquo; <footer>Eckhart Tolle</footer></blockquote>
