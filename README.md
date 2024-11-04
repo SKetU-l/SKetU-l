@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Life is the dancer and you are the dance.&rdquo; <footer>Eckhart Tolle</footer></blockquote>
+# <blockquote>&ldquo;It's not whether you get knocked down, its whether you get back up.&rdquo; <footer>Vince Lombardi</footer></blockquote>
