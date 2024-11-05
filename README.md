@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It's not whether you get knocked down, its whether you get back up.&rdquo; <footer>Vince Lombardi</footer></blockquote>
+# <blockquote>&ldquo;The smallest act of kindness is worth more than the greatest intention.  &rdquo; <footer>Kahlil Gibran</footer></blockquote>
