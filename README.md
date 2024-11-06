@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The smallest act of kindness is worth more than the greatest intention.  &rdquo; <footer>Kahlil Gibran</footer></blockquote>
+# <blockquote>&ldquo;All you need is passion. If you have a passion for something, you'll create the talent.&rdquo; <footer>Yanni</footer></blockquote>
