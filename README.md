@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;All you need is passion. If you have a passion for something, you'll create the talent.&rdquo; <footer>Yanni</footer></blockquote>
+# <blockquote>&ldquo;The moment you doubt whether you can fly, you cease for ever to be able to do it.&rdquo; <footer>James Matthew Barrie</footer></blockquote>
