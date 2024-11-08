@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The moment you doubt whether you can fly, you cease for ever to be able to do it.&rdquo; <footer>James Matthew Barrie</footer></blockquote>
+# <blockquote>&ldquo;Instead of being intimidated by the limitations, be inspired to find new ways around them.&rdquo; <footer>Ralph Marston</footer></blockquote>
