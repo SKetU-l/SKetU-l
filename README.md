@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Instead of being intimidated by the limitations, be inspired to find new ways around them.&rdquo; <footer>Ralph Marston</footer></blockquote>
+# <blockquote>&ldquo;Muddy water is best cleared by leaving it alone.&rdquo; <footer>Alan Watts</footer></blockquote>
