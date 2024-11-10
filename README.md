@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Muddy water is best cleared by leaving it alone.&rdquo; <footer>Alan Watts</footer></blockquote>
+# <blockquote>&ldquo;People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.&rdquo; <footer>Dr. Seuss</footer></blockquote>
