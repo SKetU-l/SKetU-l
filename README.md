@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.&rdquo; <footer>Dr. Seuss</footer></blockquote>
+# <blockquote>&ldquo;It's the little things done consistently over time, straight from your heart, that have the greatest impact.&rdquo; <footer>Unknown</footer></blockquote>
