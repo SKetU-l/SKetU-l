@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It's the little things done consistently over time, straight from your heart, that have the greatest impact.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;Every man desires to live long, but no man wishes to be old.&rdquo; <footer>Jonathan Swift</footer></blockquote>
