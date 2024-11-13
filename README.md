@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Every man desires to live long, but no man wishes to be old.&rdquo; <footer>Jonathan Swift</footer></blockquote>
+# <blockquote>&ldquo;When you believe in a thing, believe in it all the way, implicitly and unquestionable.&rdquo; <footer>Walt Disney</footer></blockquote>
