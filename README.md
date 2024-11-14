@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When you believe in a thing, believe in it all the way, implicitly and unquestionable.&rdquo; <footer>Walt Disney</footer></blockquote>
+# <blockquote>&ldquo;If you don't know, the thing to do is not to get scared, but to learn.&rdquo; <footer>Ayn Rand</footer></blockquote>
