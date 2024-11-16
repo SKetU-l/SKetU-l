@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Make each day a new horizon.&rdquo; <footer>Christopher McCandless</footer></blockquote>
+# <blockquote>&ldquo;You must learn to let go. Release the stress. You were never in control anyway.&rdquo; <footer>Steve Maraboli</footer></blockquote>
