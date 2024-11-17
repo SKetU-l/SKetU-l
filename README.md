@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You must learn to let go. Release the stress. You were never in control anyway.&rdquo; <footer>Steve Maraboli</footer></blockquote>
+# <blockquote>&ldquo;Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.&rdquo; <footer>Og Mandino</footer></blockquote>
