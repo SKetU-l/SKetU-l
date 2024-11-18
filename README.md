@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new.&rdquo; <footer>Og Mandino</footer></blockquote>
+# <blockquote>&ldquo;Knowledge is learning something everyday. Wisdom is letting go of something everyday.&rdquo; <footer>Unknown</footer></blockquote>
