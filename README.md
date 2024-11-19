@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Knowledge is learning something everyday. Wisdom is letting go of something everyday.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.&rdquo; <footer>Steve Maraboli</footer></blockquote>
