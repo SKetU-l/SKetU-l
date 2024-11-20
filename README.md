@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves.&rdquo; <footer>Steve Maraboli</footer></blockquote>
+# <blockquote>&ldquo;We have a duty to maintain the light of consciousness to make sure it continues into the future.&rdquo; <footer>Elon Musk</footer></blockquote>
