@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Every drop in the ocean counts. &rdquo; <footer>Yoko Ono</footer></blockquote>
+# <blockquote>&ldquo;Happiness is an effect of doing what you love, not an end goal to be achieved.&rdquo; <footer>Celestine Chua</footer></blockquote>
