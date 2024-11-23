@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Happiness is an effect of doing what you love, not an end goal to be achieved.&rdquo; <footer>Celestine Chua</footer></blockquote>
+# <blockquote>&ldquo;Faithless is he that says farewell when the road darkens.&rdquo; <footer>J.R.R. Tolkien</footer></blockquote>
