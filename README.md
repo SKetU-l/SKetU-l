@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Make your mind your own business.&rdquo; <footer>Jack Butcher</footer></blockquote>
+# <blockquote>&ldquo;If you think adventure is dangerous, try routine; it is lethal.&rdquo; <footer>Paulo Coelho</footer></blockquote>
