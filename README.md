@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it.&rdquo; <footer>Gurbaksh Chahal</footer></blockquote>
+# <blockquote>&ldquo;Live your life as an exclamation rather than an explanation.&rdquo; <footer>Isaac Newton</footer></blockquote>
