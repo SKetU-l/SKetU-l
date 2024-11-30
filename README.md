@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Live your life as an exclamation rather than an explanation.&rdquo; <footer>Isaac Newton</footer></blockquote>
+# <blockquote>&ldquo;Never settle for the crumbs of life.&rdquo; <footer>Og Mandino</footer></blockquote>
