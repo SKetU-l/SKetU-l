@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Never settle for the crumbs of life.&rdquo; <footer>Og Mandino</footer></blockquote>
+# <blockquote>&ldquo;We need a backbone, not a wishbone.&rdquo; <footer>Joyce Meyer</footer></blockquote>
