@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;We need a backbone, not a wishbone.&rdquo; <footer>Joyce Meyer</footer></blockquote>
+# <blockquote>&ldquo;Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.&rdquo; <footer>Thomas Jefferson</footer></blockquote>
