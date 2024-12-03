@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.&rdquo; <footer>Thomas Jefferson</footer></blockquote>
+# <blockquote>&ldquo;One of the first signs of the beginning of understanding is the wish to die. &rdquo; <footer>Franz Kafka</footer></blockquote>
