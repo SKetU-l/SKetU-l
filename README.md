@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;One of the first signs of the beginning of understanding is the wish to die. &rdquo; <footer>Franz Kafka</footer></blockquote>
+# <blockquote>&ldquo;Most of us will do anything to avoid facing ourselves.&rdquo; <footer>Lolly Daskal</footer></blockquote>
