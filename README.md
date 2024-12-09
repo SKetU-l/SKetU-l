@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.&rdquo; <footer>Socrates</footer></blockquote>
+# <blockquote>&ldquo;One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.&rdquo; <footer>Elon Musk</footer></blockquote>
