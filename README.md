@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.&rdquo; <footer>Elon Musk</footer></blockquote>
+# <blockquote>&ldquo;Winners are not people who never fail, but people who never quit.&rdquo; <footer>Arnold Schwarzenegger</footer></blockquote>
