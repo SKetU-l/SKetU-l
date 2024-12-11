@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Winners are not people who never fail, but people who never quit.&rdquo; <footer>Arnold Schwarzenegger</footer></blockquote>
+# <blockquote>&ldquo;Your success and happiness lie in you.&rdquo; <footer>Helen Keller</footer></blockquote>
