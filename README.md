@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Your success and happiness lie in you.&rdquo; <footer>Helen Keller</footer></blockquote>
+# <blockquote>&ldquo;Friends ask you questions; enemies question you.&rdquo; <footer>Criss Jami</footer></blockquote>
