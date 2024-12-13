@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Friends ask you questions; enemies question you.&rdquo; <footer>Criss Jami</footer></blockquote>
+# <blockquote>&ldquo;Experience is a comb which nature gives us when we are bald. &rdquo; <footer>Chinese Proverb</footer></blockquote>
