@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Experience is a comb which nature gives us when we are bald. &rdquo; <footer>Chinese Proverb</footer></blockquote>
+# <blockquote>&ldquo;Rather than love, than money, than fame, give me truth.&rdquo; <footer>Henry David Thoreau</footer></blockquote>
