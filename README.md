@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Rather than love, than money, than fame, give me truth.&rdquo; <footer>Henry David Thoreau</footer></blockquote>
+# <blockquote>&ldquo;The world doesn't owe you anything. It was here first.&rdquo; <footer>Mark Twain</footer></blockquote>
