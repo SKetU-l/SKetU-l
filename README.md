@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A wise man will be master of his mind, a fool will be its slave.&rdquo; <footer>Publilius Syrus</footer></blockquote>
+# <blockquote>&ldquo;All men who have achieved great things have been great dreamers. &rdquo; <footer>Orison Swett Marden</footer></blockquote>
