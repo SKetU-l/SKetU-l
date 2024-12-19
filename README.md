@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you want something you've never had you must be willing to do something you've never done.&rdquo; <footer>Thomas Jefferson</footer></blockquote>
+# <blockquote>&ldquo;Becoming a great leader doesn't mean being perfect. it means living with your imperfections.&rdquo; <footer>Lolly Daskal</footer></blockquote>
