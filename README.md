@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Becoming a great leader doesn't mean being perfect. it means living with your imperfections.&rdquo; <footer>Lolly Daskal</footer></blockquote>
+# <blockquote>&ldquo;Each path to knowledge involves different rules and these rules are not interchangeable.&rdquo; <footer>Barack Obama</footer></blockquote>
