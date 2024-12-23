@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Faults are yours to fix, not to curse.&rdquo; <footer>Colin Powell</footer></blockquote>
+# <blockquote>&ldquo;You cannot always control what goes on outside. But you can always control what goes on inside. &rdquo; <footer>Wayne Dyer</footer></blockquote>
