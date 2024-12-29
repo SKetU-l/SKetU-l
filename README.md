@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Never argue with stupid people, they will drag you down to their level and then beat you with experience.&rdquo; <footer>Mark Twain</footer></blockquote>
+# <blockquote>&ldquo;Tis not too late to seek a newer world.&rdquo; <footer>Heraclitus</footer></blockquote>
