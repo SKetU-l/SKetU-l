@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Tis not too late to seek a newer world.&rdquo; <footer>Heraclitus</footer></blockquote>
+# <blockquote>&ldquo;Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.&rdquo; <footer>Eckhart Tolle</footer></blockquote>
