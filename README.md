@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.&rdquo; <footer>Eckhart Tolle</footer></blockquote>
+# <blockquote>&ldquo;You get paid in direct proportion to the difficulty of problems you solve.&rdquo; <footer>Elon Musk</footer></blockquote>
