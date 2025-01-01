@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You get paid in direct proportion to the difficulty of problems you solve.&rdquo; <footer>Elon Musk</footer></blockquote>
+# <blockquote>&ldquo;Giving is living. If you stop wanting to give, there's nothing more to live for.&rdquo; <footer>Audrey Hepburn</footer></blockquote>
