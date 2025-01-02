@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Giving is living. If you stop wanting to give, there's nothing more to live for.&rdquo; <footer>Audrey Hepburn</footer></blockquote>
+# <blockquote>&ldquo;As you think, you travel, and as you love, you attract.&rdquo; <footer>James Allen</footer></blockquote>
