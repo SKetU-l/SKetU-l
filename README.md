@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;As you think, you travel, and as you love, you attract.&rdquo; <footer>James Allen</footer></blockquote>
+# <blockquote>&ldquo;The decisions of our past are the architects of our present.&rdquo; <footer>Dan Brown</footer></blockquote>
