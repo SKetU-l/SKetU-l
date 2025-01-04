@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The decisions of our past are the architects of our present.&rdquo; <footer>Dan Brown</footer></blockquote>
+# <blockquote>&ldquo;A fall into a ditch makes you wiser.&rdquo; <footer>Chinese Proverb</footer></blockquote>
