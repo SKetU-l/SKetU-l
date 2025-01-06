@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It's better to stand by someone's side than by yourself.&rdquo; <footer>Jack London</footer></blockquote>
+# <blockquote>&ldquo;Disobedience is the true foundation of liberty. The obedient must be slaves.&rdquo; <footer>Henry David Thoreau</footer></blockquote>
