@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The privilege of a lifetime is to become who you truly are.&rdquo; <footer>Carl Jung</footer></blockquote>
+# <blockquote>&ldquo;We are all in the gutter, but some of us are looking at the stars. &rdquo; <footer>Oscar Wilde</footer></blockquote>
