@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The day is for honest men, the night for thieves.&rdquo; <footer>Euripides</footer></blockquote>
+# <blockquote>&ldquo;Poverty and hardship are created by false thinking.&rdquo; <footer>Bodhidharma</footer></blockquote>
