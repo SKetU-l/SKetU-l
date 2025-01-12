@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking.&rdquo; <footer>Steve Jobs</footer></blockquote>
+# <blockquote>&ldquo;We have a duty to maintain the light of consciousness to make sure it continues into the future.&rdquo; <footer>Elon Musk</footer></blockquote>
