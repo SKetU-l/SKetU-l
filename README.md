@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;We have a duty to maintain the light of consciousness to make sure it continues into the future.&rdquo; <footer>Elon Musk</footer></blockquote>
+# <blockquote>&ldquo;Believe that life is worth living and your belief will help create the fact.&rdquo; <footer>William James</footer></blockquote>
