@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To lose your temper is only useful once a year.&rdquo; <footer>Colin R. Davis</footer></blockquote>
+# <blockquote>&ldquo;Experience is simply the name we give our mistakes. &rdquo; <footer>Oscar Wilde</footer></blockquote>
