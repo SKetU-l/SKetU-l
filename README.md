@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Experience is simply the name we give our mistakes. &rdquo; <footer>Oscar Wilde</footer></blockquote>
+# <blockquote>&ldquo;To lead an orchestra, you must turn your back on the crowd.&rdquo; <footer>Aristotle</footer></blockquote>
