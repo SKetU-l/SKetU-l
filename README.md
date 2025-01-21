@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It is the power of the mind to be unconquerable.&rdquo; <footer>Seneca</footer></blockquote>
+# <blockquote>&ldquo;In nature there is no alienation. Everything belongs.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
