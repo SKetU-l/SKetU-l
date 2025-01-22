@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;In nature there is no alienation. Everything belongs.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
+# <blockquote>&ldquo;Become the kind of leader that people would follow voluntarily, even if you had no title or position.&rdquo; <footer>Brian Tracy</footer></blockquote>
