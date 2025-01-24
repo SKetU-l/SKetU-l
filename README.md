@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Waste no more time arguing about what a good man should be. Be one.&rdquo; <footer>Marcus Aurelius</footer></blockquote>
+# <blockquote>&ldquo;The enemy is a very good teacher.&rdquo; <footer>Dalai Lama</footer></blockquote>
