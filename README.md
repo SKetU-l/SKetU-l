@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You cannot swim for new horizons until you have courage to lose sight of the shore.&rdquo; <footer>William Faulkner</footer></blockquote>
+# <blockquote>&ldquo;Your imagination is your preview of life's coming attractions.&rdquo; <footer>Albert Einstein</footer></blockquote>
