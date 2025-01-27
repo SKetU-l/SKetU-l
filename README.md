@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Your imagination is your preview of life's coming attractions.&rdquo; <footer>Albert Einstein</footer></blockquote>
+# <blockquote>&ldquo;Freedom lies in being bold.&rdquo; <footer>Robert Frost</footer></blockquote>
