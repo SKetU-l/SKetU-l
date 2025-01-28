@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Freedom lies in being bold.&rdquo; <footer>Robert Frost</footer></blockquote>
+# <blockquote>&ldquo;As you think, so shall you become. &rdquo; <footer>Bruce Lee</footer></blockquote>
