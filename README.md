@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;As you think, so shall you become. &rdquo; <footer>Bruce Lee</footer></blockquote>
+# <blockquote>&ldquo;A good system shortens the road to the goal. &rdquo; <footer>Orison Swett Marden</footer></blockquote>
