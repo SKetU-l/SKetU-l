@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A good system shortens the road to the goal. &rdquo; <footer>Orison Swett Marden</footer></blockquote>
+# <blockquote>&ldquo;Yesterday is but today's memory, tomorrow is today's dream.&rdquo; <footer>Kahlil Gibran</footer></blockquote>
