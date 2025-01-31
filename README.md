@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Yesterday is but today's memory, tomorrow is today's dream.&rdquo; <footer>Kahlil Gibran</footer></blockquote>
+# <blockquote>&ldquo;Those who are enlightened never stop forging themselves.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
