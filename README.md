@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The highest form of ignorance is when you reject something you don't know anything about. &rdquo; <footer>Wayne Dyer</footer></blockquote>
+# <blockquote>&ldquo;Unless a man is master of his soul, all other kinds of mastery amount to little.&rdquo; <footer>Theodore Roosevelt</footer></blockquote>
