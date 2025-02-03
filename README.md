@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Unless a man is master of his soul, all other kinds of mastery amount to little.&rdquo; <footer>Theodore Roosevelt</footer></blockquote>
+# <blockquote>&ldquo;Human behavior flows from three main sources: desire, emotion, and knowledge.&rdquo; <footer>Plato</footer></blockquote>
