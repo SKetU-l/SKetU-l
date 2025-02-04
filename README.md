@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Human behavior flows from three main sources: desire, emotion, and knowledge.&rdquo; <footer>Plato</footer></blockquote>
+# <blockquote>&ldquo;When you stop questioning, you stop learning.&rdquo; <footer>Lolly Daskal</footer></blockquote>
