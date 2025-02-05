@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When you stop questioning, you stop learning.&rdquo; <footer>Lolly Daskal</footer></blockquote>
+# <blockquote>&ldquo;Failure is feedback. Learn from it and move on.&rdquo; <footer>Jack Butcher</footer></blockquote>
