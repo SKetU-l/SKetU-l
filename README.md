@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Failure is feedback. Learn from it and move on.&rdquo; <footer>Jack Butcher</footer></blockquote>
+# <blockquote>&ldquo;To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
