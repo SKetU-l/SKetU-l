@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
+# <blockquote>&ldquo;A day wasted on others is not wasted on one's self.&rdquo; <footer>Charles Dickens</footer></blockquote>
