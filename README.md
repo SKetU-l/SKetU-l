@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A day wasted on others is not wasted on one's self.&rdquo; <footer>Charles Dickens</footer></blockquote>
+# <blockquote>&ldquo;A clear conscience never fears midnight knocking.&rdquo; <footer>Chinese Proverb</footer></blockquote>
