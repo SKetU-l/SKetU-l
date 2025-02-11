@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&rdquo; <footer>Maxime Lagace</footer></blockquote>
+# <blockquote>&ldquo;It is in your moments of decision that your destiny is shaped.&rdquo; <footer>Tony Robbins</footer></blockquote>
