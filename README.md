@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It is in your moments of decision that your destiny is shaped.&rdquo; <footer>Tony Robbins</footer></blockquote>
+# <blockquote>&ldquo;The future is the worst thing about the present.&rdquo; <footer>Gustave Flaubert</footer></blockquote>
