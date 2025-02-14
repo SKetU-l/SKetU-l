@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't wait for extraordinary opportunities. Seize common occasions and make them great.&rdquo; <footer>Orison Swett Marden</footer></blockquote>
+# <blockquote>&ldquo;If you want something you've never had you must be willing to do something you've never done.&rdquo; <footer>Thomas Jefferson</footer></blockquote>
