@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't wish it were easier, wish you were better.&rdquo; <footer>Jim Rohn</footer></blockquote>
+# <blockquote>&ldquo;To be of use to the world is the only way to be happy.&rdquo; <footer>Hans Christian Andersen</footer></blockquote>
