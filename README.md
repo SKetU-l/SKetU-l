@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Be the change that you want to see in the world.&rdquo; <footer>Mahatma Gandhi</footer></blockquote>
+# <blockquote>&ldquo;Find the game where you can win, and then commit your life to playing it; and play to win.&rdquo; <footer>Robert Kiyosaki</footer></blockquote>
