@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Find the game where you can win, and then commit your life to playing it; and play to win.&rdquo; <footer>Robert Kiyosaki</footer></blockquote>
+# <blockquote>&ldquo;Disobedience is the true foundation of liberty. The obedient must be slaves.&rdquo; <footer>Henry David Thoreau</footer></blockquote>
