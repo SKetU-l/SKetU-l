@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Disobedience is the true foundation of liberty. The obedient must be slaves.&rdquo; <footer>Henry David Thoreau</footer></blockquote>
+# <blockquote>&ldquo;Patience is not the ability to wait but the ability to keep a good attitude while waiting.&rdquo; <footer>Joyce Meyer</footer></blockquote>
