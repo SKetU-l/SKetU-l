@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Patience is not the ability to wait but the ability to keep a good attitude while waiting.&rdquo; <footer>Joyce Meyer</footer></blockquote>
+# <blockquote>&ldquo;A person hears only what they understand.&rdquo; <footer>Johann Wolfgang von Goethe</footer></blockquote>
