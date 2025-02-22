@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A person hears only what they understand.&rdquo; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+# <blockquote>&ldquo;Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.&rdquo; <footer>Robert Frost</footer></blockquote>
