@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it.&rdquo; <footer>Robert Frost</footer></blockquote>
+# <blockquote>&ldquo;You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.&rdquo; <footer>Eleanor Roosevelt</footer></blockquote>
