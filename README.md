@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.&rdquo; <footer>Eleanor Roosevelt</footer></blockquote>
+# <blockquote>&ldquo;Failure will never overtake me if my determination to succeed is strong enough.&rdquo; <footer>Og Mandino</footer></blockquote>
