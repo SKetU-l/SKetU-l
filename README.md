@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To wish you were someone else is to waste the person you are.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;Why fit in when you were born to stand out?&rdquo; <footer>Dr. Seuss</footer></blockquote>
