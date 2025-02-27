@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Why fit in when you were born to stand out?&rdquo; <footer>Dr. Seuss</footer></blockquote>
+# <blockquote>&ldquo;Imagination is the beginning of creation.&rdquo; <footer>George Bernard Shaw</footer></blockquote>
