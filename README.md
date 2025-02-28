@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Imagination is the beginning of creation.&rdquo; <footer>George Bernard Shaw</footer></blockquote>
+# <blockquote>&ldquo;He who cheats the earth will be cheated by the earth.&rdquo; <footer>Chinese Proverb</footer></blockquote>
