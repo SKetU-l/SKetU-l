@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Absorb what is useful, discard what is useless and add what is specifically your own.  &rdquo; <footer>Bruce Lee</footer></blockquote>
+# <blockquote>&ldquo;Thinking is the hardest work there is. That is why so few people engage in it.&rdquo; <footer>Robert Kiyosaki</footer></blockquote>
