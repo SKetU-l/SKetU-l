@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Thinking is the hardest work there is. That is why so few people engage in it.&rdquo; <footer>Robert Kiyosaki</footer></blockquote>
+# <blockquote>&ldquo;The secret of life isn't what happens to you, but what you do with what happens to you.&rdquo; <footer>Norman Vincent Peale</footer></blockquote>
