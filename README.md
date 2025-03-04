@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The secret of life isn't what happens to you, but what you do with what happens to you.&rdquo; <footer>Norman Vincent Peale</footer></blockquote>
+# <blockquote>&ldquo;Where focus goes, energy flows.&rdquo; <footer>Tony Robbins</footer></blockquote>
