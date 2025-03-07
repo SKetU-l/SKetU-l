@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Trust is the foundation of great leadership.&rdquo; <footer>Lolly Daskal</footer></blockquote>
+# <blockquote>&ldquo;Believe in your infinite potential. Your only limitations are those you set upon yourself.&rdquo; <footer>Roy T. Bennett</footer></blockquote>
