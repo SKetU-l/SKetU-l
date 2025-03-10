@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Time is more valuable than money. You can get more money, but you cannot get more time.&rdquo; <footer>Jim Rohn</footer></blockquote>
+# <blockquote>&ldquo;Only those who will risk going too far can possibly find out how far one can go.&rdquo; <footer>T.S. Eliot</footer></blockquote>
