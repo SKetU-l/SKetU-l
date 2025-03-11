@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Only those who will risk going too far can possibly find out how far one can go.&rdquo; <footer>T.S. Eliot</footer></blockquote>
+# <blockquote>&ldquo;Blessed is he who expects nothing, for he shall never be disappointed.&rdquo; <footer>Alexander Pope</footer></blockquote>
