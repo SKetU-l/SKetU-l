@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Blessed is he who expects nothing, for he shall never be disappointed.&rdquo; <footer>Alexander Pope</footer></blockquote>
+# <blockquote>&ldquo;Sometimes good things fall apart so better things can fall together.&rdquo; <footer>Marilyn Monroe</footer></blockquote>
