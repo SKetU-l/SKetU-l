@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When you reach the top of the mountain, keep climbing. &rdquo; <footer>Zen Proverb</footer></blockquote>
+# <blockquote>&ldquo;The heart wants what it wants. There's no logic. &rdquo; <footer>Woody Allen</footer></blockquote>
