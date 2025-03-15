@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The heart wants what it wants. There's no logic. &rdquo; <footer>Woody Allen</footer></blockquote>
+# <blockquote>&ldquo;Your success and happiness lie in you.&rdquo; <footer>Helen Keller</footer></blockquote>
