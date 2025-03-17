@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;For every minute you are angry you lose sixty seconds of happiness.&rdquo; <footer>Ralph Waldo Emerson</footer></blockquote>
+# <blockquote>&ldquo;Character is the result of two things: mental attitude and the way we spend our time.&rdquo; <footer>Elbert Hubbard</footer></blockquote>
