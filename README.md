@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Character is the result of two things: mental attitude and the way we spend our time.&rdquo; <footer>Elbert Hubbard</footer></blockquote>
+# <blockquote>&ldquo;An investment in knowledge pays the best interest.&rdquo; <footer>Benjamin Franklin</footer></blockquote>
