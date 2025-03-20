@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Art is the signature of civilizations. &rdquo; <footer>Beverly Sills</footer></blockquote>
+# <blockquote>&ldquo;The best way to understanding is a few good examples.&rdquo; <footer>Isaac Newton</footer></blockquote>
