@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Greatest success comes just one step beyond the point at which defeat overtakes you.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;True wealth is of the heart, not of the purse.&rdquo; <footer>Og Mandino</footer></blockquote>
