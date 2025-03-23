@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;True wealth is of the heart, not of the purse.&rdquo; <footer>Og Mandino</footer></blockquote>
+# <blockquote>&ldquo;The more you are grateful for what you have the more you will have to be grateful for.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
