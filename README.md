@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The more you are grateful for what you have the more you will have to be grateful for.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
+# <blockquote>&ldquo;Trust, like the soul, never returns once it is gone.&rdquo; <footer>Publilius Syrus</footer></blockquote>
