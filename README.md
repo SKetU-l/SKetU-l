@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;What you get by achieving your goals is not as important as what you become by achieving your goals.&rdquo; <footer>Henry David Thoreau</footer></blockquote>
+# <blockquote>&ldquo;I am thankful to all who said no to me. It is because of them that I'm doing it myself.&rdquo; <footer>Albert Einstein</footer></blockquote>
