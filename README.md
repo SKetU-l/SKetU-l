@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;I am thankful to all who said no to me. It is because of them that I'm doing it myself.&rdquo; <footer>Albert Einstein</footer></blockquote>
+# <blockquote>&ldquo;Inspire yourself to be great. Being good isn't good enough.&rdquo; <footer>Gurbaksh Chahal</footer></blockquote>
