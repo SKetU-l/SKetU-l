@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Inspire yourself to be great. Being good isn't good enough.&rdquo; <footer>Gurbaksh Chahal</footer></blockquote>
+# <blockquote>&ldquo;When I let go of what I am, I become what I might be.&rdquo; <footer>Lao Tzu</footer></blockquote>
