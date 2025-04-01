@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Sometimes success isn't about making the right decision, it's more about making some decision.&rdquo; <footer>Robin Sharma</footer></blockquote>
+# <blockquote>&ldquo;Everyday you can take a tiny step in the right direction.&rdquo; <footer>Unknown</footer></blockquote>
