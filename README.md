@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Everyday you can take a tiny step in the right direction.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;An empty head is not really empty; it is stuffed with rubbish. Hence the difficulty of forcing anything into an empty head.&rdquo; <footer>Eric Hoffer</footer></blockquote>
