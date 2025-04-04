@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A very little key will open a very heavy door.&rdquo; <footer>Charles Dickens</footer></blockquote>
+# <blockquote>&ldquo;You may be disappointed if you fail, but you are doomed if you don't try. &rdquo; <footer>Beverly Sills</footer></blockquote>
