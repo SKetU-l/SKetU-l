@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Intense love does not measure, it just gives.&rdquo; <footer>Mother Teresa</footer></blockquote>
+# <blockquote>&ldquo;There is nothing more truly artistic than to love people.&rdquo; <footer>Vincent van Gogh</footer></blockquote>
