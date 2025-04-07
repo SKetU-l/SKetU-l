@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There is nothing more truly artistic than to love people.&rdquo; <footer>Vincent van Gogh</footer></blockquote>
+# <blockquote>&ldquo;The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.&rdquo; <footer>Zig Ziglar</footer></blockquote>
