@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.&rdquo; <footer>Socrates</footer></blockquote>
+# <blockquote>&ldquo;Give a girl the right shoes, and she can conquer the world.&rdquo; <footer>Bette Midler</footer></blockquote>
