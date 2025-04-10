@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Give a girl the right shoes, and she can conquer the world.&rdquo; <footer>Bette Midler</footer></blockquote>
+# <blockquote>&ldquo;Everything will be ok in the end. If it's not ok, it's not the end.&rdquo; <footer>John Lennon</footer></blockquote>
