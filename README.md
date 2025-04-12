@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Faithless is he that says farewell when the road darkens.&rdquo; <footer>J.R.R. Tolkien</footer></blockquote>
+# <blockquote>&ldquo;We are born from a quiet sleep, and we die to a calm awakening&rdquo; <footer>Zhuangzi</footer></blockquote>
