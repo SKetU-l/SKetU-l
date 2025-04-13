@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;We are born from a quiet sleep, and we die to a calm awakening&rdquo; <footer>Zhuangzi</footer></blockquote>
+# <blockquote>&ldquo;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&rdquo; <footer>Emily Dickinson</footer></blockquote>
