@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&rdquo; <footer>Emily Dickinson</footer></blockquote>
+# <blockquote>&ldquo;The educated differ from the uneducated as much as the living differ from the dead.&rdquo; <footer>Aristotle</footer></blockquote>
