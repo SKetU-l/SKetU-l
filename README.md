@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The educated differ from the uneducated as much as the living differ from the dead.&rdquo; <footer>Aristotle</footer></blockquote>
+# <blockquote>&ldquo;Progress comes to those who train and train; reliance on secret techniques will get you nowhere.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
