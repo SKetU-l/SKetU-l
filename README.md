@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Stop acting so small. You are the universe in ecstatic motion.&rdquo; <footer>Rumi</footer></blockquote>
+# <blockquote>&ldquo;Fishing is much more than fish.&rdquo; <footer>Herbert Hoover</footer></blockquote>
