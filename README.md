@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Fishing is much more than fish.&rdquo; <footer>Herbert Hoover</footer></blockquote>
+# <blockquote>&ldquo;It is not how much we have, but how much we enjoy, that makes happiness.&rdquo; <footer>Charles Spurgeon</footer></blockquote>
