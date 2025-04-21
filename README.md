@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Success is the sum of small efforts, repeated day in and day out.&rdquo; <footer>Robert Collier</footer></blockquote>
+# <blockquote>&ldquo;Silence is a source of great strength.&rdquo; <footer>Lao Tzu</footer></blockquote>
