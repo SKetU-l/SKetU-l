@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Success and failure come and go, but don't let them define you. It's who you are that matters.&rdquo; <footer>Kamal Ravikant</footer></blockquote>
+# <blockquote>&ldquo;Nothing is impossible. The word itself says 'I'm possible!'&rdquo; <footer>Audrey Hepburn</footer></blockquote>
