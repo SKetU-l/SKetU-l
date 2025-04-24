@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Nothing is impossible. The word itself says 'I'm possible!'&rdquo; <footer>Audrey Hepburn</footer></blockquote>
+# <blockquote>&ldquo;Rest and be kind, you don't have to prove anything.&rdquo; <footer>Jack Kerouac</footer></blockquote>
