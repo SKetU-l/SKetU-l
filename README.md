@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The way to love anything is to realize that it may be lost.&rdquo; <footer>Gilbert Chesterton</footer></blockquote>
+# <blockquote>&ldquo;A change is brought about because ordinary people do extraordinary things.&rdquo; <footer>Barack Obama</footer></blockquote>
