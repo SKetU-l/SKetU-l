@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A change is brought about because ordinary people do extraordinary things.&rdquo; <footer>Barack Obama</footer></blockquote>
+# <blockquote>&ldquo;Live life as though nobody is watching, and express yourself as though everyone is listening.&rdquo; <footer>Nelson Mandela</footer></blockquote>
