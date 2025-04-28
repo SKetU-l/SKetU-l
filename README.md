@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Live life as though nobody is watching, and express yourself as though everyone is listening.&rdquo; <footer>Nelson Mandela</footer></blockquote>
+# <blockquote>&ldquo;People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.&rdquo; <footer>David Brinkley</footer></blockquote>
