@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;People have the illusion that all over the world, all the time, all kinds of fantastic things are happening.&rdquo; <footer>David Brinkley</footer></blockquote>
+# <blockquote>&ldquo;If a man knows not to which port he sails, no wind is favorable.  &rdquo; <footer>Seneca</footer></blockquote>
