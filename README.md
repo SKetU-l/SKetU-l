@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.&rdquo; <footer>Lao Tzu</footer></blockquote>
+# <blockquote>&ldquo;The best way to predict your future is to create it.&rdquo; <footer>Abraham Lincoln</footer></blockquote>
