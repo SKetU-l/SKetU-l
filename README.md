@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The best way to predict your future is to create it.&rdquo; <footer>Abraham Lincoln</footer></blockquote>
+# <blockquote>&ldquo;Distant water does not put out a nearby fire.&rdquo; <footer>Chinese Proverb</footer></blockquote>
