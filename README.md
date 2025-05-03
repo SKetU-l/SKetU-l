@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Distant water does not put out a nearby fire.&rdquo; <footer>Chinese Proverb</footer></blockquote>
+# <blockquote>&ldquo;Life is not just the passing of time. Life is the collection of experiences and their intensity.&rdquo; <footer>Jim Rohn</footer></blockquote>
