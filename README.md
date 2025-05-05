@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.&rdquo; <footer>Socrates</footer></blockquote>
+# <blockquote>&ldquo;Tragedy is a tool for the living to gain wisdom, not a guide by which to live.&rdquo; <footer>Robert F. Kennedy</footer></blockquote>
