@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes.&rdquo; <footer>Alfred Adler</footer></blockquote>
+# <blockquote>&ldquo;If we know how to adapt, we end up being superior.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
