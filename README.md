@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The man who removes a mountain begins by carrying away small stones.&rdquo; <footer>William Faulkner</footer></blockquote>
+# <blockquote>&ldquo;It is only depth of character that determines the profundity with which we face life.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
