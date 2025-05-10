@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It is only depth of character that determines the profundity with which we face life.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
+# <blockquote>&ldquo;It is useless to meet revenge with revenge; it will heal nothing.&rdquo; <footer>J.R.R. Tolkien</footer></blockquote>
