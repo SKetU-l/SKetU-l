@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It is useless to meet revenge with revenge; it will heal nothing.&rdquo; <footer>J.R.R. Tolkien</footer></blockquote>
+# <blockquote>&ldquo;To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.&rdquo; <footer>Criss Jami</footer></blockquote>
