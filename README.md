@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.&rdquo; <footer>Criss Jami</footer></blockquote>
+# <blockquote>&ldquo;There are people who have money and people who are rich.&rdquo; <footer>Coco Chanel</footer></blockquote>
