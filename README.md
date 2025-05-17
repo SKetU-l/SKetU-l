@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The more something scares you, the more you should do it.&rdquo; <footer>Mark Manson</footer></blockquote>
+# <blockquote>&ldquo;There is always room in your life for thinking bigger, pushing limits and imagining the impossible.&rdquo; <footer>Tony Robbins</footer></blockquote>
