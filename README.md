@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There is always room in your life for thinking bigger, pushing limits and imagining the impossible.&rdquo; <footer>Tony Robbins</footer></blockquote>
+# <blockquote>&ldquo;You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.&rdquo; <footer>Anita Krizzan</footer></blockquote>
