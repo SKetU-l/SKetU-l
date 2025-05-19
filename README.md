@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.&rdquo; <footer>Anita Krizzan</footer></blockquote>
+# <blockquote>&ldquo;Health is the greatest of all possessions.&rdquo; <footer>Jonathan Swift</footer></blockquote>
