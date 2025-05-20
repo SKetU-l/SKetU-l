@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Health is the greatest of all possessions.&rdquo; <footer>Jonathan Swift</footer></blockquote>
+# <blockquote>&ldquo;All that we see or seem is but a dream within a dream.&rdquo; <footer>Edgar Allan Poe</footer></blockquote>
