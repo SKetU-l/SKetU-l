@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;All that we see or seem is but a dream within a dream.&rdquo; <footer>Edgar Allan Poe</footer></blockquote>
+# <blockquote>&ldquo;Never give up work. Work gives you meaning and purpose and life is empty without it.&rdquo; <footer>Stephen Hawking</footer></blockquote>
