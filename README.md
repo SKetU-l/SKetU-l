@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Never give up work. Work gives you meaning and purpose and life is empty without it.&rdquo; <footer>Stephen Hawking</footer></blockquote>
+# <blockquote>&ldquo;When it hurts - observe. Life is trying to teach you something.&rdquo; <footer>Anita Krizzan</footer></blockquote>
