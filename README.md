@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Work is always an antidote to depression.&rdquo; <footer>Eleanor Roosevelt</footer></blockquote>
+# <blockquote>&ldquo;Curiosity is the most powerful thing you own.&rdquo; <footer>James Cameron</footer></blockquote>
