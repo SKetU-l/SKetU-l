@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Live, travel, adventure, bless, and don't be sorry.  &rdquo; <footer>Jack Kerouac</footer></blockquote>
+# <blockquote>&ldquo;Never be bored, and you will never be boring.&rdquo; <footer>Eleanor Roosevelt</footer></blockquote>
