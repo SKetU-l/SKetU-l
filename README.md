@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Never be bored, and you will never be boring.&rdquo; <footer>Eleanor Roosevelt</footer></blockquote>
+# <blockquote>&ldquo;Life is like stepping onto a boat which is about to sail out to sea and sink.&rdquo; <footer>Shunryu Suzuki</footer></blockquote>
