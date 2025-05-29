@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Life is like stepping onto a boat which is about to sail out to sea and sink.&rdquo; <footer>Shunryu Suzuki</footer></blockquote>
+# <blockquote>&ldquo;All know that the drop merges into the ocean, but few know that the ocean merges into the drop.&rdquo; <footer>Kabir</footer></blockquote>
