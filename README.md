@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;All know that the drop merges into the ocean, but few know that the ocean merges into the drop.&rdquo; <footer>Kabir</footer></blockquote>
+# <blockquote>&ldquo;The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.&rdquo; <footer>Mark Twain</footer></blockquote>
