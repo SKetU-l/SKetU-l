@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Nature does not hurry, yet everything is accomplished.&rdquo; <footer>Lao Tzu</footer></blockquote>
+# <blockquote>&ldquo;Act the way you want to be and soon you'll be the way you act.&rdquo; <footer>Les Brown</footer></blockquote>
