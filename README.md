@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The number one cause of failure is the fear of failure.&rdquo; <footer>Steve Harvey</footer></blockquote>
+# <blockquote>&ldquo;The most virtuous are those who content themselves with being virtuous without seeking to appear so.&rdquo; <footer>Plato</footer></blockquote>
