@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You miss 100% of the shots you don't take.&rdquo; <footer>Wayne Gretzky</footer></blockquote>
+# <blockquote>&ldquo;Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. &rdquo; <footer>Lao Tzu</footer></blockquote>
