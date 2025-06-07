@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You can never get enough of what you don't need to make you happy.&rdquo; <footer>Eric Hoffer</footer></blockquote>
+# <blockquote>&ldquo;Rudeness is the weak man's imitation of strength.&rdquo; <footer>Eric Hoffer</footer></blockquote>
