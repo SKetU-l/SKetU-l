@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Rudeness is the weak man's imitation of strength.&rdquo; <footer>Eric Hoffer</footer></blockquote>
+# <blockquote>&ldquo;It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart.&rdquo; <footer>Roy T. Bennett</footer></blockquote>
