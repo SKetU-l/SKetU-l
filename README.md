@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny.&rdquo; <footer>James Allen</footer></blockquote>
+# <blockquote>&ldquo;Ask no questions, and you'll be told no lies.&rdquo; <footer>Charles Dickens</footer></blockquote>
