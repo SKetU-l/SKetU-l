@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Ask no questions, and you'll be told no lies.&rdquo; <footer>Charles Dickens</footer></blockquote>
+# <blockquote>&ldquo;One of the oldest human needs is having someone to wonder where you are when you don't come home at night. &rdquo; <footer>Margaret Mead</footer></blockquote>
