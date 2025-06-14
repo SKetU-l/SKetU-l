@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Success is built sequentially. It's one thing at a time.&rdquo; <footer>Gary Keller</footer></blockquote>
+# <blockquote>&ldquo;The destiny of man is in his own soul. &rdquo; <footer>Herodotus</footer></blockquote>
