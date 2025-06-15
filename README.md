@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The destiny of man is in his own soul. &rdquo; <footer>Herodotus</footer></blockquote>
+# <blockquote>&ldquo;Opportunity often comes disguised in the form of misfortune or temporary defeat.&rdquo; <footer>Napoleon Hill</footer></blockquote>
