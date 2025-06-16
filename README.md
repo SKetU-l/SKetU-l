@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Opportunity often comes disguised in the form of misfortune or temporary defeat.&rdquo; <footer>Napoleon Hill</footer></blockquote>
+# <blockquote>&ldquo;Amateurs sit and wait for inspiration, the rest of us just get up and got to work.&rdquo; <footer>Stephen King</footer></blockquote>
