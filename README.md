@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Amateurs sit and wait for inspiration, the rest of us just get up and got to work.&rdquo; <footer>Stephen King</footer></blockquote>
+# <blockquote>&ldquo;As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.&rdquo; <footer>Audrey Hepburn</footer></blockquote>
