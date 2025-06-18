@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.&rdquo; <footer>Audrey Hepburn</footer></blockquote>
+# <blockquote>&ldquo;No tree, it is said, can grow to heaven unless its roots reach down to hell.&rdquo; <footer>Carl Jung</footer></blockquote>
