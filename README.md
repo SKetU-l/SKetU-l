@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;No tree, it is said, can grow to heaven unless its roots reach down to hell.&rdquo; <footer>Carl Jung</footer></blockquote>
+# <blockquote>&ldquo;Not until we are lost do we begin to understand ourselves.&rdquo; <footer>Henry David Thoreau</footer></blockquote>
