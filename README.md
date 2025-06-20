@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Not until we are lost do we begin to understand ourselves.&rdquo; <footer>Henry David Thoreau</footer></blockquote>
+# <blockquote>&ldquo;Success comes to those who become success conscious.&rdquo; <footer>Napoleon Hill</footer></blockquote>
