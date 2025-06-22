@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Failure is a great teacher. If you're open to it every mistake has a lesson to offer.&rdquo; <footer>Oprah Winfrey</footer></blockquote>
+# <blockquote>&ldquo;Investing in yourself is the best investment you will ever make.&rdquo; <footer>Robin Sharma</footer></blockquote>
