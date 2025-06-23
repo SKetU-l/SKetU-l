@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Investing in yourself is the best investment you will ever make.&rdquo; <footer>Robin Sharma</footer></blockquote>
+# <blockquote>&ldquo;A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
