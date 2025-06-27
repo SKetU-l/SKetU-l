@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Men trust their ears less than their eyes.&rdquo; <footer>Herodotus</footer></blockquote>
+# <blockquote>&ldquo;We will act consistently with our view of who we truly are, whether that view is accurate or not.&rdquo; <footer>Tony Robbins</footer></blockquote>
