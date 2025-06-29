@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When we think about our strengths, we are strong. When we think about our weaknesses, we are weak.&rdquo; <footer>Peter A. Cohen</footer></blockquote>
+# <blockquote>&ldquo;Your spirit is the true shield.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
