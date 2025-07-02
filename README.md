@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Life has no limitations except the ones you make.&rdquo; <footer>Les Brown</footer></blockquote>
+# <blockquote>&ldquo;You cannot control the behavior of others, but you can always choose how you respond to it.&rdquo; <footer>Roy T. Bennett</footer></blockquote>
