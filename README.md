@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You cannot control the behavior of others, but you can always choose how you respond to it.&rdquo; <footer>Roy T. Bennett</footer></blockquote>
+# <blockquote>&ldquo;You get paid in direct proportion to the difficulty of problems you solve.&rdquo; <footer>Elon Musk</footer></blockquote>
