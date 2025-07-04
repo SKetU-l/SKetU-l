@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You get paid in direct proportion to the difficulty of problems you solve.&rdquo; <footer>Elon Musk</footer></blockquote>
+# <blockquote>&ldquo;Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.&rdquo; <footer>Robert Kiyosaki</footer></blockquote>
