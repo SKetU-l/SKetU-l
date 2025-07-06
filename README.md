@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Thinking is the hardest work there is, which is probably the reason why so few engage in it.&rdquo; <footer>Henry Ford</footer></blockquote>
+# <blockquote>&ldquo;Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.&rdquo; <footer>Og Mandino</footer></blockquote>
