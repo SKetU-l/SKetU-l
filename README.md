@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.&rdquo; <footer>Og Mandino</footer></blockquote>
+# <blockquote>&ldquo;Life is like a beautiful melody, only the lyrics are messed up.&rdquo; <footer>Hans Christian Andersen</footer></blockquote>
