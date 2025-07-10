@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There is no limit to the amount of good you can do if you don't care who gets the credit.&rdquo; <footer>Ronald Reagan</footer></blockquote>
+# <blockquote>&ldquo;Pursue what catches your heart, not what catches your eyes.&rdquo; <footer>Roy T. Bennett</footer></blockquote>
