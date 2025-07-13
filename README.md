@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.&rdquo; <footer>Celestine Chua</footer></blockquote>
+# <blockquote>&ldquo;It is better to be looked over than overlooked.&rdquo; <footer>Mae West</footer></blockquote>
