@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot.&rdquo; <footer>D. H. Lawrence</footer></blockquote>
+# <blockquote>&ldquo;The dream is free, but the hustle is sold separately.&rdquo; <footer>Steve Harvey</footer></blockquote>
