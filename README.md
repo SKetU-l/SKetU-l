@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There is no absolute success in the world, only constant progress.&rdquo; <footer>Jonathan Swift</footer></blockquote>
+# <blockquote>&ldquo;All men who have achieved great things have been great dreamers. &rdquo; <footer>Orison Swett Marden</footer></blockquote>
