@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When you change what you believe, you change what you do.&rdquo; <footer>Spencer Johnson</footer></blockquote>
+# <blockquote>&ldquo;A clever person turns great troubles into little ones, and little ones into none at all. &rdquo; <footer>Chinese Proverb</footer></blockquote>
