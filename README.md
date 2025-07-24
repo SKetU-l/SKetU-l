@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Circumstances rule men; men do not rule circumstances. &rdquo; <footer>Herodotus</footer></blockquote>
+# <blockquote>&ldquo;Information changes your mind. Action changes your circumstances.&rdquo; <footer>Jack Butcher</footer></blockquote>
