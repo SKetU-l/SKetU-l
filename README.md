@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Information changes your mind. Action changes your circumstances.&rdquo; <footer>Jack Butcher</footer></blockquote>
+# <blockquote>&ldquo;Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy.&rdquo; <footer>Ralph Marston</footer></blockquote>
