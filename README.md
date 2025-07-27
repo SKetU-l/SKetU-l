@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.&rdquo; <footer>Deepak Chopra</footer></blockquote>
+# <blockquote>&ldquo;You are not the drop in the ocean, but the ocean in the drop.&rdquo; <footer>Deepak Chopra</footer></blockquote>
