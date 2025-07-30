@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit.&rdquo; <footer>Napoleon Hill</footer></blockquote>
+# <blockquote>&ldquo;A moving door hinge never corrodes. Flowing water never grows stagnant.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
