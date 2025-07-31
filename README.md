@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A moving door hinge never corrodes. Flowing water never grows stagnant.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
+# <blockquote>&ldquo;Your dream has to be bigger than your fear.&rdquo; <footer>Steve Harvey</footer></blockquote>
