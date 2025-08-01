@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Your dream has to be bigger than your fear.&rdquo; <footer>Steve Harvey</footer></blockquote>
+# <blockquote>&ldquo;Be yourself; everyone else is already taken.&rdquo; <footer>Oscar Wilde</footer></blockquote>
