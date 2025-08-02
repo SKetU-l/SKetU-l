@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Be yourself; everyone else is already taken.&rdquo; <footer>Oscar Wilde</footer></blockquote>
+# <blockquote>&ldquo;If you want to achieve greatness stop asking for permission.&rdquo; <footer>Unknown</footer></blockquote>
