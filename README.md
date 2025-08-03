@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you want to achieve greatness stop asking for permission.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;Only when you can be extremely pliable and soft can you be extremely hard and strong.&rdquo; <footer>Zen Proverb</footer></blockquote>
