@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The greatest of empires, is the empire over one's self.&rdquo; <footer>Publilius Syrus</footer></blockquote>
+# <blockquote>&ldquo;Be grateful for what you have now, and nothing should be taken for granted.&rdquo; <footer>Roy T. Bennett</footer></blockquote>
