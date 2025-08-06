@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Be grateful for what you have now, and nothing should be taken for granted.&rdquo; <footer>Roy T. Bennett</footer></blockquote>
+# <blockquote>&ldquo;Your vision will become clear only when you can look into your own heart.&rdquo; <footer>Lolly Daskal</footer></blockquote>
