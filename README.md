@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Your vision will become clear only when you can look into your own heart.&rdquo; <footer>Lolly Daskal</footer></blockquote>
+# <blockquote>&ldquo;The wise man reads both books and life itself.&rdquo; <footer>Lin Yutang</footer></blockquote>
