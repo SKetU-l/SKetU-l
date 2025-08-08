@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The wise man reads both books and life itself.&rdquo; <footer>Lin Yutang</footer></blockquote>
+# <blockquote>&ldquo;I defeat my enemies when I make them my friends.&rdquo; <footer>Dalai Lama</footer></blockquote>
