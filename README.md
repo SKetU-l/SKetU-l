@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Every day is an opportunity to a make a new happy ending.&rdquo; <footer>Jonathan Swift</footer></blockquote>
+# <blockquote>&ldquo;Creative endeavors are by their nature uncertain.&rdquo; <footer>Robert Greene</footer></blockquote>
