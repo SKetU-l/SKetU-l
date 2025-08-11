@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Creative endeavors are by their nature uncertain.&rdquo; <footer>Robert Greene</footer></blockquote>
+# <blockquote>&ldquo;Don't blame others. it won't make you a better person.&rdquo; <footer>Lolly Daskal</footer></blockquote>
