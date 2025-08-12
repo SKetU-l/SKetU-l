@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't blame others. it won't make you a better person.&rdquo; <footer>Lolly Daskal</footer></blockquote>
+# <blockquote>&ldquo;Successful people are not without problems. They're simply people who've learned to solve their problems.&rdquo; <footer>Earl Nightingale</footer></blockquote>
