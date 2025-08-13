@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Successful people are not without problems. They're simply people who've learned to solve their problems.&rdquo; <footer>Earl Nightingale</footer></blockquote>
+# <blockquote>&ldquo;What is planted in each person's soul will sprout.  &rdquo; <footer>Rumi</footer></blockquote>
