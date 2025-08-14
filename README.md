@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;What is planted in each person's soul will sprout.  &rdquo; <footer>Rumi</footer></blockquote>
+# <blockquote>&ldquo;Remember we're all in this alone.&rdquo; <footer>Lily Tomlin</footer></blockquote>
