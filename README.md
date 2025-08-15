@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Remember we're all in this alone.&rdquo; <footer>Lily Tomlin</footer></blockquote>
+# <blockquote>&ldquo;The more you praise and celebrate your life, the more there is in life to celebrate. &rdquo; <footer>Oprah Winfrey</footer></blockquote>
