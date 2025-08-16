@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The more you praise and celebrate your life, the more there is in life to celebrate. &rdquo; <footer>Oprah Winfrey</footer></blockquote>
+# <blockquote>&ldquo;When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. &rdquo; <footer>Charles Swindoll</footer></blockquote>
