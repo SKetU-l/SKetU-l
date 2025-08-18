@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists.&rdquo; <footer>Eric Hoffer</footer></blockquote>
+# <blockquote>&ldquo;If you genuinely want something, don't wait for it - teach yourself.&rdquo; <footer>Gurbaksh Chahal</footer></blockquote>
