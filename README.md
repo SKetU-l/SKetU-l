@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you genuinely want something, don't wait for it - teach yourself.&rdquo; <footer>Gurbaksh Chahal</footer></blockquote>
+# <blockquote>&ldquo;Wherever you are is the entry point.&rdquo; <footer>Kabir</footer></blockquote>
