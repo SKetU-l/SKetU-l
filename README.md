@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind.&rdquo; <footer>Ayn Rand</footer></blockquote>
+# <blockquote>&ldquo;Choose a job you love, and you will never have to work a day in your life. &rdquo; <footer>Confucius</footer></blockquote>
