@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Choose a job you love, and you will never have to work a day in your life. &rdquo; <footer>Confucius</footer></blockquote>
+# <blockquote>&ldquo;The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.&rdquo; <footer>Amelia Earhart</footer></blockquote>
