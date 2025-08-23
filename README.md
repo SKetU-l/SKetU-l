@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers.&rdquo; <footer>Amelia Earhart</footer></blockquote>
+# <blockquote>&ldquo;You are never too old to become younger.&rdquo; <footer>Mae West</footer></blockquote>
