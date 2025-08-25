@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.&rdquo; <footer>Og Mandino</footer></blockquote>
+# <blockquote>&ldquo;The world is a puzzle; no need to make sense out of it.&rdquo; <footer>Socrates</footer></blockquote>
