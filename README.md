@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The world is a puzzle; no need to make sense out of it.&rdquo; <footer>Socrates</footer></blockquote>
+# <blockquote>&ldquo;Know yourself and you will win all battles.&rdquo; <footer>Sun Tzu</footer></blockquote>
