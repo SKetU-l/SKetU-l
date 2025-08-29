@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.&rdquo; <footer>Tony Robbins</footer></blockquote>
+# <blockquote>&ldquo;Wheels of justice grind slow but grind fine.&rdquo; <footer>Sun Tzu</footer></blockquote>
