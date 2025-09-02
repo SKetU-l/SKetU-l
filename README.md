@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Your heart is full of fertile seeds, waiting to sprout.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
+# <blockquote>&ldquo;You can start changing our world for the better daily, no matter how small the action.&rdquo; <footer>Nelson Mandela</footer></blockquote>
