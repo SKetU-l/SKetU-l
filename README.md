@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You can start changing our world for the better daily, no matter how small the action.&rdquo; <footer>Nelson Mandela</footer></blockquote>
+# <blockquote>&ldquo;The attempt to escape from pain, is what creates more pain.&rdquo; <footer>Gabor Mate</footer></blockquote>
