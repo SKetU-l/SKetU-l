@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The attempt to escape from pain, is what creates more pain.&rdquo; <footer>Gabor Mate</footer></blockquote>
+# <blockquote>&ldquo;The time is always right to do what is right.&rdquo; <footer>Martin Luther King, Jr.</footer></blockquote>
