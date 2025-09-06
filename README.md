@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you get up one more time than you fall, you will make it through.&rdquo; <footer>Chinese Proverb</footer></blockquote>
+# <blockquote>&ldquo;Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity.&rdquo; <footer>Og Mandino</footer></blockquote>
