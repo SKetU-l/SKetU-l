@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Only when you can be extremely pliable and soft can you be extremely hard and strong.&rdquo; <footer>Zen Proverb</footer></blockquote>
+# <blockquote>&ldquo;Be fascinated instead of frustrated.&rdquo; <footer>Jim Rohn</footer></blockquote>
