@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Be fascinated instead of frustrated.&rdquo; <footer>Jim Rohn</footer></blockquote>
+# <blockquote>&ldquo;Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.&rdquo; <footer>Brian Tracy</footer></blockquote>
