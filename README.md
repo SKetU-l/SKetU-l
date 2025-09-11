@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't wait for the right opportunity: create it.&rdquo; <footer>George Bernard Shaw</footer></blockquote>
+# <blockquote>&ldquo;It is our choices that show what we truly are, far more than our abilities.&rdquo; <footer>Albus Dumbledore</footer></blockquote>
