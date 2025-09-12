@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It is our choices that show what we truly are, far more than our abilities.&rdquo; <footer>Albus Dumbledore</footer></blockquote>
+# <blockquote>&ldquo;Time doesn't heal emotional pain, you need to learn how to let go.&rdquo; <footer>Roy T. Bennett</footer></blockquote>
