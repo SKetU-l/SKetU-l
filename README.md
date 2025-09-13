@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Time doesn't heal emotional pain, you need to learn how to let go.&rdquo; <footer>Roy T. Bennett</footer></blockquote>
+# <blockquote>&ldquo;Not engaging in ignorance is wisdom. &rdquo; <footer>Bodhidharma</footer></blockquote>
