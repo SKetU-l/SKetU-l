@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Not engaging in ignorance is wisdom. &rdquo; <footer>Bodhidharma</footer></blockquote>
+# <blockquote>&ldquo;As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt.&rdquo; <footer>Jack London</footer></blockquote>
