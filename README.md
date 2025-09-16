@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You do not read a book for the book's sake, but for your own.&rdquo; <footer>Earl Nightingale</footer></blockquote>
+# <blockquote>&ldquo;You win more from losing than winning.&rdquo; <footer>Morgan Wootten</footer></blockquote>
