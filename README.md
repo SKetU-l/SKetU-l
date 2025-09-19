@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Discipline yourself, and others won't need to.&rdquo; <footer>John Wooden</footer></blockquote>
+# <blockquote>&ldquo;The only people without problems are those in cemeteries.&rdquo; <footer>Tony Robbins</footer></blockquote>
