@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The only people without problems are those in cemeteries.&rdquo; <footer>Tony Robbins</footer></blockquote>
+# <blockquote>&ldquo;The first rule of business; treat others like they want to treat you.&rdquo; <footer>Charles Dickens</footer></blockquote>
