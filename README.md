@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The first rule of business; treat others like they want to treat you.&rdquo; <footer>Charles Dickens</footer></blockquote>
+# <blockquote>&ldquo;The longer we dwell on our misfortunes, the greater is their power to harm us.&rdquo; <footer>Voltaire</footer></blockquote>
