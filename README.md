@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Our happiness depends on the habit of mind we cultivate.&rdquo; <footer>Norman Vincent Peale</footer></blockquote>
+# <blockquote>&ldquo;The few who do are the envy of the many who only watch.&rdquo; <footer>Jim Rohn</footer></blockquote>
