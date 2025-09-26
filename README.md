@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The more you know, the more you know you don't know.&rdquo; <footer>Aristotle</footer></blockquote>
+# <blockquote>&ldquo;What would life be if we had no courage to attempt anything? &rdquo; <footer>Vincent van Gogh</footer></blockquote>
