@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love.&rdquo; <footer>John Lennon</footer></blockquote>
+# <blockquote>&ldquo;Only those who do nothing at all make no mistakes.&rdquo; <footer>Unknown</footer></blockquote>
