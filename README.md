@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Only those who do nothing at all make no mistakes.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;Peace is not the absence of conflict, but the ability to cope with it.&rdquo; <footer>Unknown</footer></blockquote>
