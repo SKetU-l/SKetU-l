@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Question everything. Learn something. Answer nothing.&rdquo; <footer>Euripides</footer></blockquote>
+# <blockquote>&ldquo;Everything you've ever wanted is on the other side of fear.&rdquo; <footer>Brian Tracy</footer></blockquote>
