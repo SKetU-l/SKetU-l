@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Let us rather run the risk of wearing out than rusting out.&rdquo; <footer>Theodore Roosevelt</footer></blockquote>
+# <blockquote>&ldquo;My guiding principle is this: Guilt is never to be doubted. &rdquo; <footer>Franz Kafka</footer></blockquote>
