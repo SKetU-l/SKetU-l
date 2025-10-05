@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Truth is exact correspondence with reality. &rdquo; <footer>Paramahansa Yogananda</footer></blockquote>
+# <blockquote>&ldquo;Challenge yourself to find the good and beautiful thing inside of everyone.&rdquo; <footer>Mark Manson</footer></blockquote>
