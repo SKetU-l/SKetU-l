@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Everyone sees what you appear to be, few experience what you really are.&rdquo; <footer>Niccolo Machiavelli</footer></blockquote>
+# <blockquote>&ldquo;Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. &rdquo; <footer>George Washington</footer></blockquote>
