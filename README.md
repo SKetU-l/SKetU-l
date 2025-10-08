@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. &rdquo; <footer>George Washington</footer></blockquote>
+# <blockquote>&ldquo;Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.&rdquo; <footer>James Allen</footer></blockquote>
