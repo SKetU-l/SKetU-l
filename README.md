@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Family not only needs to consist of merely those whom we share blood, but also of those whom we'd give blood.&rdquo; <footer>Charles Dickens</footer></blockquote>
+# <blockquote>&ldquo;Opportunity is missed by most people because it is dressed in overalls and looks like work.&rdquo; <footer>Thomas Edison</footer></blockquote>
