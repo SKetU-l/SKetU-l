@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Opportunity is missed by most people because it is dressed in overalls and looks like work.&rdquo; <footer>Thomas Edison</footer></blockquote>
+# <blockquote>&ldquo;An investment in knowledge pays the best interest.&rdquo; <footer>Benjamin Franklin</footer></blockquote>
