@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;An investment in knowledge pays the best interest.&rdquo; <footer>Benjamin Franklin</footer></blockquote>
+# <blockquote>&ldquo;Riches don't make a man rich, they only make him busier.&rdquo; <footer>Christopher Columbus</footer></blockquote>
