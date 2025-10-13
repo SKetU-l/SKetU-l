@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Riches don't make a man rich, they only make him busier.&rdquo; <footer>Christopher Columbus</footer></blockquote>
+# <blockquote>&ldquo;When you can't make them see the light, make them feel the heat.&rdquo; <footer>Ronald Reagan</footer></blockquote>
