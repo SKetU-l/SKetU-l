@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When you can't make them see the light, make them feel the heat.&rdquo; <footer>Ronald Reagan</footer></blockquote>
+# <blockquote>&ldquo;Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.&rdquo; <footer>Steve Harvey</footer></blockquote>
