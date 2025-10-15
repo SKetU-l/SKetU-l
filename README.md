@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.&rdquo; <footer>Steve Harvey</footer></blockquote>
+# <blockquote>&ldquo;To belittle, you have to be little.&rdquo; <footer>Kahlil Gibran</footer></blockquote>
