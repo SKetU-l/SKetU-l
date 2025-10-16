@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To belittle, you have to be little.&rdquo; <footer>Kahlil Gibran</footer></blockquote>
+# <blockquote>&ldquo;There are two things a person should never be angry at, what they can help, and what they cannot.&rdquo; <footer>Plato</footer></blockquote>
