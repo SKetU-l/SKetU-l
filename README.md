@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There are two things a person should never be angry at, what they can help, and what they cannot.&rdquo; <footer>Plato</footer></blockquote>
+# <blockquote>&ldquo;If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.&rdquo; <footer>Celestine Chua</footer></blockquote>
