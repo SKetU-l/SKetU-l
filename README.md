@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated.&rdquo; <footer>Celestine Chua</footer></blockquote>
+# <blockquote>&ldquo;Appear weak when you are strong, and strong when you are weak.&rdquo; <footer>Sun Tzu</footer></blockquote>
