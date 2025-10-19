@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Appear weak when you are strong, and strong when you are weak.&rdquo; <footer>Sun Tzu</footer></blockquote>
+# <blockquote>&ldquo;The journey is what brings us happiness not the destination.&rdquo; <footer>Dan Millman</footer></blockquote>
