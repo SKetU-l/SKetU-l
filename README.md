@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;I can think of nothing less pleasurable than a life devoted to pleasure.&rdquo; <footer>John D. Rockefeller</footer></blockquote>
+# <blockquote>&ldquo;What keeps life fascinating is the constant creativity of the soul.&rdquo; <footer>Deepak Chopra</footer></blockquote>
