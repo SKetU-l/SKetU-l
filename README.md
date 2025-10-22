@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;What keeps life fascinating is the constant creativity of the soul.&rdquo; <footer>Deepak Chopra</footer></blockquote>
+# <blockquote>&ldquo;Don't talk about what you have done or what you are going to do.&rdquo; <footer>Thomas Jefferson</footer></blockquote>
