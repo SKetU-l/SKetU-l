@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't talk about what you have done or what you are going to do.&rdquo; <footer>Thomas Jefferson</footer></blockquote>
+# <blockquote>&ldquo;Only he who has no use for the empire is fit to be entrusted with it.&rdquo; <footer>Zhuangzi</footer></blockquote>
