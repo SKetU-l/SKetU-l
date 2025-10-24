@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Only he who has no use for the empire is fit to be entrusted with it.&rdquo; <footer>Zhuangzi</footer></blockquote>
+# <blockquote>&ldquo;No man is free who is not master of himself.&rdquo; <footer>Epictetus</footer></blockquote>
