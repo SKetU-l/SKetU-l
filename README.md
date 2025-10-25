@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;No man is free who is not master of himself.&rdquo; <footer>Epictetus</footer></blockquote>
+# <blockquote>&ldquo;Talk does not cook rice.&rdquo; <footer>Chinese Proverb</footer></blockquote>
