@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Talk does not cook rice.&rdquo; <footer>Chinese Proverb</footer></blockquote>
+# <blockquote>&ldquo;To earn more you must learn more.&rdquo; <footer>Brian Tracy</footer></blockquote>
