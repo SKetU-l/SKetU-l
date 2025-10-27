@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To earn more you must learn more.&rdquo; <footer>Brian Tracy</footer></blockquote>
+# <blockquote>&ldquo;Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.&rdquo; <footer>Sun Tzu</footer></blockquote>
