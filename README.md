@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.&rdquo; <footer>Sun Tzu</footer></blockquote>
+# <blockquote>&ldquo;The search for happiness is one of the chief sources of unhappiness.&rdquo; <footer>Eric Hoffer</footer></blockquote>
