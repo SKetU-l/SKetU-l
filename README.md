@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There is a big difference between being centered and being self-centered.&rdquo; <footer>Lolly Daskal</footer></blockquote>
+# <blockquote>&ldquo;Luck is what happens when preparation meets opportunity.  &rdquo; <footer>Seneca</footer></blockquote>
