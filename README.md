@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Luck is what happens when preparation meets opportunity.  &rdquo; <footer>Seneca</footer></blockquote>
+# <blockquote>&ldquo;Happiness is the absence of the striving for happiness.&rdquo; <footer>Zhuangzi</footer></blockquote>
