@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Happiness is the absence of the striving for happiness.&rdquo; <footer>Zhuangzi</footer></blockquote>
+# <blockquote>&ldquo;It is hard to fail, but it is worse never to have tried to succeed.&rdquo; <footer>Theodore Roosevelt</footer></blockquote>
