@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;It is hard to fail, but it is worse never to have tried to succeed.&rdquo; <footer>Theodore Roosevelt</footer></blockquote>
+# <blockquote>&ldquo;Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.&rdquo; <footer>Margaret Mead</footer></blockquote>
