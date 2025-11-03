@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.&rdquo; <footer>Margaret Mead</footer></blockquote>
+# <blockquote>&ldquo;Love is the absence of judgment.&rdquo; <footer>Dalai Lama</footer></blockquote>
