@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Love is the absence of judgment.&rdquo; <footer>Dalai Lama</footer></blockquote>
+# <blockquote>&ldquo;Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. &rdquo; <footer>Martin Luther</footer></blockquote>
