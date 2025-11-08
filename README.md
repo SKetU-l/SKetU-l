@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;We become what we believe.&rdquo; <footer>Lolly Daskal</footer></blockquote>
+# <blockquote>&ldquo;The way to love anything is to realize that it may be lost.&rdquo; <footer>Gilbert Chesterton</footer></blockquote>
