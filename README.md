@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The way to love anything is to realize that it may be lost.&rdquo; <footer>Gilbert Chesterton</footer></blockquote>
+# <blockquote>&ldquo;When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  &rdquo; <footer>Wayne Dyer</footer></blockquote>
