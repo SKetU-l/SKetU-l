@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  &rdquo; <footer>Wayne Dyer</footer></blockquote>
+# <blockquote>&ldquo;Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.&rdquo; <footer>Arnold Schwarzenegger</footer></blockquote>
