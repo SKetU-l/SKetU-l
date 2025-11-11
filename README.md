@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail.&rdquo; <footer>Arnold Schwarzenegger</footer></blockquote>
+# <blockquote>&ldquo;Keep your friends close, and your enemies closer.&rdquo; <footer>Sun Tzu</footer></blockquote>
