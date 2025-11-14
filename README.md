@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Generosity is giving more than you can, and pride is taking less than you need.&rdquo; <footer>Kahlil Gibran</footer></blockquote>
+# <blockquote>&ldquo;The future is not a gift. It is an achievement.&rdquo; <footer>Robert F. Kennedy</footer></blockquote>
