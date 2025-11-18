@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;First say to yourself what you would be; and then do what you have to do.&rdquo; <footer>Epictetus</footer></blockquote>
+# <blockquote>&ldquo;May you find grace as you surrender to life. May you find happiness, as you stop seeking it.&rdquo; <footer>Dan Millman</footer></blockquote>
