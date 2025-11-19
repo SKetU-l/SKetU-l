@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;May you find grace as you surrender to life. May you find happiness, as you stop seeking it.&rdquo; <footer>Dan Millman</footer></blockquote>
+# <blockquote>&ldquo;Don't seek, don't avoid, don't expect. Take what comes and be happy.&rdquo; <footer>Maxime Lagace</footer></blockquote>
