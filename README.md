@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't seek, don't avoid, don't expect. Take what comes and be happy.&rdquo; <footer>Maxime Lagace</footer></blockquote>
+# <blockquote>&ldquo;Try not to become a man of success, but rather try to become a man of value.&rdquo; <footer>Albert Einstein</footer></blockquote>
