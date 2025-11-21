@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Try not to become a man of success, but rather try to become a man of value.&rdquo; <footer>Albert Einstein</footer></blockquote>
+# <blockquote>&ldquo;In nature there is no alienation. Everything belongs.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
