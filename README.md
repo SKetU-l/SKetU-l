@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;In nature there is no alienation. Everything belongs.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
+# <blockquote>&ldquo;We must be free not because we claim freedom, but because we practice it.&rdquo; <footer>William Faulkner</footer></blockquote>
