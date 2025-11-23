@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;We must be free not because we claim freedom, but because we practice it.&rdquo; <footer>William Faulkner</footer></blockquote>
+# <blockquote>&ldquo;Seek not the good in external things;seek it in yourselves.&rdquo; <footer>Epictetus</footer></blockquote>
