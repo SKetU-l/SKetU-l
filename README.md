@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Seek not the good in external things;seek it in yourselves.&rdquo; <footer>Epictetus</footer></blockquote>
+# <blockquote>&ldquo;When you want to be honored by others, you learn to honor them first.&rdquo; <footer>Sathya Sai Baba</footer></blockquote>
