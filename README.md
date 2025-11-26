@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The divine is not something high above us. It is in heaven, it is in earth, it is inside us.&rdquo; <footer>Morihei Ueshiba</footer></blockquote>
+# <blockquote>&ldquo;Walk towards the sunshine, and the shadows will fall behind you.&rdquo; <footer>Mary Engelbreit</footer></blockquote>
