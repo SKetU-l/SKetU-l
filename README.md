@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Walk towards the sunshine, and the shadows will fall behind you.&rdquo; <footer>Mary Engelbreit</footer></blockquote>
+# <blockquote>&ldquo;Character is doing what you don't want to do but know you should do.&rdquo; <footer>Joyce Meyer</footer></blockquote>
