@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Heart is what separates the good from the great.&rdquo; <footer>Michael Jordan</footer></blockquote>
+# <blockquote>&ldquo;You only live once, but if you do it right, once is enough.&rdquo; <footer>Mae West</footer></blockquote>
