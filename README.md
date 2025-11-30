@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You only live once, but if you do it right, once is enough.&rdquo; <footer>Mae West</footer></blockquote>
+# <blockquote>&ldquo;The only place success comes before work is in the dictionary.&rdquo; <footer>Vince Lombardi</footer></blockquote>
