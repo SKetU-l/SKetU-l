@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The only place success comes before work is in the dictionary.&rdquo; <footer>Vince Lombardi</footer></blockquote>
+# <blockquote>&ldquo;Success is a consequence and must not be a goal.&rdquo; <footer>Gustave Flaubert</footer></blockquote>
