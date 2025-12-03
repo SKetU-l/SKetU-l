@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.&rdquo; <footer>William Faulkner</footer></blockquote>
+# <blockquote>&ldquo;By perseverance the snail reached the ark.&rdquo; <footer>Charles Spurgeon</footer></blockquote>
