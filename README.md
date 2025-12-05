@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;We need never be ashamed of our tears.&rdquo; <footer>Charles Dickens</footer></blockquote>
+# <blockquote>&ldquo;The strongest and sweetest songs yet remain to be sung.&rdquo; <footer>Walt Whitman</footer></blockquote>
