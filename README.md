@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The strongest and sweetest songs yet remain to be sung.&rdquo; <footer>Walt Whitman</footer></blockquote>
+# <blockquote>&ldquo;The primary point of this existence is to live, and all living things move and grow.&rdquo; <footer>Ming-Dao Deng</footer></blockquote>
