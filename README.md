@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Receive without pride, let go without attachment.&rdquo; <footer>Marcus Aurelius</footer></blockquote>
+# <blockquote>&ldquo;Change is not a four letter word...but often your reaction to it is!&rdquo; <footer>Jeffrey Gitomer</footer></blockquote>
