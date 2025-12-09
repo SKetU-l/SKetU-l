@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Change is not a four letter word...but often your reaction to it is!&rdquo; <footer>Jeffrey Gitomer</footer></blockquote>
+# <blockquote>&ldquo;Hope and fear come from feeling that we lack something; they come from a sense of poverty.&rdquo; <footer>Pema Chodron</footer></blockquote>
