@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Hope and fear come from feeling that we lack something; they come from a sense of poverty.&rdquo; <footer>Pema Chodron</footer></blockquote>
+# <blockquote>&ldquo;An un-examined life is not worth living.&rdquo; <footer>Socrates</footer></blockquote>
