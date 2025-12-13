@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There are few reasons for telling the truth, but for lying the number is infinite.&rdquo; <footer>Carlos Ruiz Zafon</footer></blockquote>
+# <blockquote>&ldquo;Every saint has a past, and every sinner has a future.&rdquo; <footer>Oscar Wilde</footer></blockquote>
