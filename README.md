@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Every saint has a past, and every sinner has a future.&rdquo; <footer>Oscar Wilde</footer></blockquote>
+# <blockquote>&ldquo;I would rather be hated for who I am than loved for who I'm not.  &rdquo; <footer>Wayne Dyer</footer></blockquote>
