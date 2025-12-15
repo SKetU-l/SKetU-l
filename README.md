@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;I would rather be hated for who I am than loved for who I'm not.  &rdquo; <footer>Wayne Dyer</footer></blockquote>
+# <blockquote>&ldquo;While some of us act without thinking, too many of us think without acting.&rdquo; <footer>Dan Millman</footer></blockquote>
