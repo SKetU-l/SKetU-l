@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;While some of us act without thinking, too many of us think without acting.&rdquo; <footer>Dan Millman</footer></blockquote>
+# <blockquote>&ldquo;People think you're crazy if you talk about things they don't understand.&rdquo; <footer>Elvis Presley</footer></blockquote>
