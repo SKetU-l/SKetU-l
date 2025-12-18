@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;People think you're crazy if you talk about things they don't understand.&rdquo; <footer>Elvis Presley</footer></blockquote>
+# <blockquote>&ldquo;People will forget what you said, people will forget what you did, but people will never forget how you made them feel.&rdquo; <footer>Maya Angelou</footer></blockquote>
