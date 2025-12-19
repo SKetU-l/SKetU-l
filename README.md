@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;People will forget what you said, people will forget what you did, but people will never forget how you made them feel.&rdquo; <footer>Maya Angelou</footer></blockquote>
+# <blockquote>&ldquo;A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.&rdquo; <footer>Charles Dickens</footer></blockquote>
