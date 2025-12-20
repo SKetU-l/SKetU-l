@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.&rdquo; <footer>Charles Dickens</footer></blockquote>
+# <blockquote>&ldquo;What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!&rdquo; <footer>Charles Darwin</footer></blockquote>
