@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!&rdquo; <footer>Charles Darwin</footer></blockquote>
+# <blockquote>&ldquo;Life is like a beautiful melody, only the lyrics are messed up.&rdquo; <footer>Hans Christian Andersen</footer></blockquote>
