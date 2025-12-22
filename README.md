@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Life is like a beautiful melody, only the lyrics are messed up.&rdquo; <footer>Hans Christian Andersen</footer></blockquote>
+# <blockquote>&ldquo;Courage is found in unlikely places.&rdquo; <footer>J.R.R. Tolkien</footer></blockquote>
