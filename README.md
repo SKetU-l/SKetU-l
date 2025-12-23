@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Courage is found in unlikely places.&rdquo; <footer>J.R.R. Tolkien</footer></blockquote>
+# <blockquote>&ldquo;Anyone who has ever made anything of importance was disciplined.&rdquo; <footer>Andrew Hendrixson</footer></blockquote>
