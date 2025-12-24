@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Anyone who has ever made anything of importance was disciplined.&rdquo; <footer>Andrew Hendrixson</footer></blockquote>
+# <blockquote>&ldquo;Anyone who reads a book with a sense of obligation does not understand the art of reading.&rdquo; <footer>Lin Yutang</footer></blockquote>
