@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Anyone who reads a book with a sense of obligation does not understand the art of reading.&rdquo; <footer>Lin Yutang</footer></blockquote>
+# <blockquote>&ldquo;Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.&rdquo; <footer>Eleanor Roosevelt</footer></blockquote>
