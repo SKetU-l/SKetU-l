@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Remember, today is the tomorrow you worried about yesterday.&rdquo; <footer>Dale Carnegie</footer></blockquote>
+# <blockquote>&ldquo;There are as many opinions as there are experts.&rdquo; <footer>Franklin D. Roosevelt</footer></blockquote>
