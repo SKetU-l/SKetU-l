@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Anything you may hold firmly in your imagination can be yours.&rdquo; <footer>William James</footer></blockquote>
+# <blockquote>&ldquo;When it is dark enough, you can see the stars.&rdquo; <footer>Ralph Waldo Emerson</footer></blockquote>
