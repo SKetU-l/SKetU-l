@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When it is dark enough, you can see the stars.&rdquo; <footer>Ralph Waldo Emerson</footer></blockquote>
+# <blockquote>&ldquo;Fools read fast. Geniuses reread.&rdquo; <footer>Maxime Lagace</footer></blockquote>
