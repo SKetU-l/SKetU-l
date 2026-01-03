@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When you rise in the morning, form a resolution to make the day a happy one for a fellow creature.&rdquo; <footer>Sydney Smith</footer></blockquote>
+# <blockquote>&ldquo;Attitude, not aptitude, determines altitude.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
