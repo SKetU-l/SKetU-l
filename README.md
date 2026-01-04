@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Attitude, not aptitude, determines altitude.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
+# <blockquote>&ldquo;It is impossible for a man to learn what he thinks he already knows.&rdquo; <footer>Epictetus</footer></blockquote>
