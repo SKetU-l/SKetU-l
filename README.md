@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The only real security that a man can have in this world is a reserve of knowledge, experience and ability. &rdquo; <footer>Henry Ford</footer></blockquote>
+# <blockquote>&ldquo;Optimism, when applied to your life, develops strength and peace within you.&rdquo; <footer>Norman Vincent Peale</footer></blockquote>
