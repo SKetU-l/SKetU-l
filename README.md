@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Optimism, when applied to your life, develops strength and peace within you.&rdquo; <footer>Norman Vincent Peale</footer></blockquote>
+# <blockquote>&ldquo;If you don't break your ropes while you're alive, do you think ghosts will do it after?&rdquo; <footer>Kabir</footer></blockquote>
