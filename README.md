@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The time is now, the place is here. Stay in the present.&rdquo; <footer>Dan Millman</footer></blockquote>
+# <blockquote>&ldquo;Life is a question and how we live it is our answer.&rdquo; <footer>Gary Keller</footer></blockquote>
