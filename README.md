@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Life is a question and how we live it is our answer.&rdquo; <footer>Gary Keller</footer></blockquote>
+# <blockquote>&ldquo;Whenever you find yourself on the side of the majority, it is time to reform.&rdquo; <footer>Mark Twain</footer></blockquote>
