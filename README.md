@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;I am not the outcome. I am never the result. I am only the effort.&rdquo; <footer>Kamal Ravikant</footer></blockquote>
+# <blockquote>&ldquo;Once you choose hope, anything's possible.&rdquo; <footer>Christopher Reeve</footer></blockquote>
