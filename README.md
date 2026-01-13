@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Once you choose hope, anything's possible.&rdquo; <footer>Christopher Reeve</footer></blockquote>
+# <blockquote>&ldquo;The source of a true smile is an awakened mind.&rdquo; <footer>Thich Nhat Hanh</footer></blockquote>
