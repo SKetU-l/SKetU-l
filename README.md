@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The source of a true smile is an awakened mind.&rdquo; <footer>Thich Nhat Hanh</footer></blockquote>
+# <blockquote>&ldquo;Acknowledging the good that you already have in your life is the foundation for all abundance.&rdquo; <footer>Eckhart Tolle</footer></blockquote>
