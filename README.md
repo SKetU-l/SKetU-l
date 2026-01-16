@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To accomplish big things, I am convinced you must first dream big dreams.&rdquo; <footer>Conrad Hilton</footer></blockquote>
+# <blockquote>&ldquo;Motivation gets you going and habit gets you there.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
