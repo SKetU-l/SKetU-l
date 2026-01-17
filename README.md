@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Motivation gets you going and habit gets you there.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
+# <blockquote>&ldquo;Success seems to be connected to action. Successful people keep moving. They make mistakes, but they don't quit.&rdquo; <footer>Conrad Hilton</footer></blockquote>
