@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You can put lipstick on a pig. It's still a pig.&rdquo; <footer>Barack Obama</footer></blockquote>
+# <blockquote>&ldquo;I am not absentminded. It is the presence of mind that makes me unaware of everything else.&rdquo; <footer>Gilbert Chesterton</footer></blockquote>
