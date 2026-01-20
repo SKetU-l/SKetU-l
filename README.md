@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;I am not absentminded. It is the presence of mind that makes me unaware of everything else.&rdquo; <footer>Gilbert Chesterton</footer></blockquote>
+# <blockquote>&ldquo;Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.&rdquo; <footer>Thomas Jefferson</footer></blockquote>
