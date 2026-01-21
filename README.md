@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.&rdquo; <footer>Thomas Jefferson</footer></blockquote>
+# <blockquote>&ldquo;Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.&rdquo; <footer>Carl Bard</footer></blockquote>
