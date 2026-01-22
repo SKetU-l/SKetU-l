@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.&rdquo; <footer>Carl Bard</footer></blockquote>
+# <blockquote>&ldquo;Success is going from failure to failure without losing your enthusiasm&rdquo; <footer>Winston Churchill</footer></blockquote>
