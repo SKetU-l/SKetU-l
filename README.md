@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.&rdquo; <footer>Denis Waitley</footer></blockquote>
+# <blockquote>&ldquo;An un-examined life is not worth living.&rdquo; <footer>Socrates</footer></blockquote>
