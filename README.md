@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;An un-examined life is not worth living.&rdquo; <footer>Socrates</footer></blockquote>
+# <blockquote>&ldquo;A real friend is one who walks in when the rest of the world walks out.&rdquo; <footer>Unknown</footer></blockquote>
