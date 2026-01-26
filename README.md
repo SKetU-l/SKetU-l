@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A real friend is one who walks in when the rest of the world walks out.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along.&rdquo; <footer>Celestine Chua</footer></blockquote>
