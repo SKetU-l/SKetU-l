@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. &rdquo; <footer>Henry Ford</footer></blockquote>
+# <blockquote>&ldquo;You have as much laughter as you have faith.&rdquo; <footer>Martin Luther</footer></blockquote>
