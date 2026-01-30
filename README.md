@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You have as much laughter as you have faith.&rdquo; <footer>Martin Luther</footer></blockquote>
+# <blockquote>&ldquo;Always focus on the front windshield and not the rear view mirror.&rdquo; <footer>Colin Powell</footer></blockquote>
