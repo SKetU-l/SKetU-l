@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;All has not been said and never will be.&rdquo; <footer>Samuel Beckett</footer></blockquote>
+# <blockquote>&ldquo;Discipline is the bridge between goals and accomplishment.&rdquo; <footer>Jim Rohn</footer></blockquote>
