@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Discipline is the bridge between goals and accomplishment.&rdquo; <footer>Jim Rohn</footer></blockquote>
+# <blockquote>&ldquo;Don't spend time beating on a wall, hoping to transform it into a door.&rdquo; <footer>Coco Chanel</footer></blockquote>
