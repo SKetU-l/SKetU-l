@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't spend time beating on a wall, hoping to transform it into a door.&rdquo; <footer>Coco Chanel</footer></blockquote>
+# <blockquote>&ldquo;Older men declare war. But it is youth that must fight and die.&rdquo; <footer>Herbert Hoover</footer></blockquote>
