@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Older men declare war. But it is youth that must fight and die.&rdquo; <footer>Herbert Hoover</footer></blockquote>
+# <blockquote>&ldquo;Outstanding people have one thing in common: an absolute sense of mission.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
