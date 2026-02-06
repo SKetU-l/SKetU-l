@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Outstanding people have one thing in common: an absolute sense of mission.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
+# <blockquote>&ldquo;If we did all the things we are capable of, we would literally astound ourselves.&rdquo; <footer>Thomas Edison</footer></blockquote>
