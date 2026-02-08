@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Everyone thinks of changing the world, but no one thinks of changing himself.&rdquo; <footer>Leo Tolstoy</footer></blockquote>
+# <blockquote>&ldquo;Never regret your past. Rather, embrace it as the teacher that it is.&rdquo; <footer>Robin Sharma</footer></blockquote>
