@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Never regret your past. Rather, embrace it as the teacher that it is.&rdquo; <footer>Robin Sharma</footer></blockquote>
+# <blockquote>&ldquo;Maybe you are searching among the branches, for what only appears in the roots.&rdquo; <footer>Rumi</footer></blockquote>
