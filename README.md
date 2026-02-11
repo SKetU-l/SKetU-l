@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Men go to far greater lengths to avoid what they fear than to obtain what they desire.&rdquo; <footer>Dan Brown</footer></blockquote>
+# <blockquote>&ldquo;To be prepared is half the victory. &rdquo; <footer>Miguel de Cervantes</footer></blockquote>
