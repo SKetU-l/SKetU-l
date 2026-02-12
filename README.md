@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To be prepared is half the victory. &rdquo; <footer>Miguel de Cervantes</footer></blockquote>
+# <blockquote>&ldquo;Winners never quit and quitters never win.&rdquo; <footer>Vince Lombardi</footer></blockquote>
