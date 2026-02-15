@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Your setback is just a setup for a comeback.&rdquo; <footer>Steve Harvey</footer></blockquote>
+# <blockquote>&ldquo;No one has ever become poor by giving.&rdquo; <footer>Anne Frank</footer></blockquote>
