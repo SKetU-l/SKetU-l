@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.&rdquo; <footer>Albus Dumbledore</footer></blockquote>
+# <blockquote>&ldquo;A golden cage is still just a cage.&rdquo; <footer>Anita Krizzan</footer></blockquote>
