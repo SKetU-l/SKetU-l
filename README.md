@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Start the day with love, spend the day with love, fill the day with love and end the day with love.&rdquo; <footer>Sathya Sai Baba</footer></blockquote>
+# <blockquote>&ldquo;There can be no deep disappointment where there is not deep love.&rdquo; <footer>Martin Luther King, Jr.</footer></blockquote>
