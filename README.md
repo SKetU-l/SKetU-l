@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There can be no deep disappointment where there is not deep love.&rdquo; <footer>Martin Luther King, Jr.</footer></blockquote>
+# <blockquote>&ldquo;Excellence is not a skill. It is an attitude. &rdquo; <footer>Ralph Marston</footer></blockquote>
