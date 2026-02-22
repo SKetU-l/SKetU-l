@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Excellence is not a skill. It is an attitude. &rdquo; <footer>Ralph Marston</footer></blockquote>
+# <blockquote>&ldquo;The power to make and break habits and learning how to do that is really important.&rdquo; <footer>Naval Ravikant</footer></blockquote>
