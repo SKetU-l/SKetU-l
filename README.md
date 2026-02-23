@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The power to make and break habits and learning how to do that is really important.&rdquo; <footer>Naval Ravikant</footer></blockquote>
+# <blockquote>&ldquo;To get angry is like to revenge yourself for the guilt of others.&rdquo; <footer>Jonathan Swift</footer></blockquote>
