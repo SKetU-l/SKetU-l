@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;To get angry is like to revenge yourself for the guilt of others.&rdquo; <footer>Jonathan Swift</footer></blockquote>
+# <blockquote>&ldquo;By failing to prepare, you are preparing to fail.&rdquo; <footer>Benjamin Franklin</footer></blockquote>
