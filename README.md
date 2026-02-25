@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;By failing to prepare, you are preparing to fail.&rdquo; <footer>Benjamin Franklin</footer></blockquote>
+# <blockquote>&ldquo;You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.&rdquo; <footer>James Allen</footer></blockquote>
