@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Reading should be a pleasure, not a chore.&rdquo; <footer>Joan Rivers</footer></blockquote>
+# <blockquote>&ldquo;Don't be pushed by your problems; be led by your dreams.&rdquo; <footer>Unknown</footer></blockquote>
