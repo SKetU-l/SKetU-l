@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't be pushed by your problems; be led by your dreams.&rdquo; <footer>Unknown</footer></blockquote>
+# <blockquote>&ldquo;With the new day comes new strength and new thoughts.&rdquo; <footer>Eleanor Roosevelt</footer></blockquote>
