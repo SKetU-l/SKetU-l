@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Failure is an option, fear is not.&rdquo; <footer>James Cameron</footer></blockquote>
+# <blockquote>&ldquo;Only by attracting the best people will you accomplish great deeds.&rdquo; <footer>Colin Powell</footer></blockquote>
