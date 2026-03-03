@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Only by attracting the best people will you accomplish great deeds.&rdquo; <footer>Colin Powell</footer></blockquote>
+# <blockquote>&ldquo;The first step is to establish that something is possible; then probability will occur.&rdquo; <footer>Elon Musk</footer></blockquote>
