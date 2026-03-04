@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;The first step is to establish that something is possible; then probability will occur.&rdquo; <footer>Elon Musk</footer></blockquote>
+# <blockquote>&ldquo;Each path to knowledge involves different rules and these rules are not interchangeable.&rdquo; <footer>Barack Obama</footer></blockquote>
