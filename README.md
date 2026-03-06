@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Your very silence shows you agree.&rdquo; <footer>Euripides</footer></blockquote>
+# <blockquote>&ldquo;A tiny change today brings a dramatically different tomorrow.&rdquo; <footer>Richard Bach</footer></blockquote>
