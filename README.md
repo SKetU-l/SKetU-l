@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A tiny change today brings a dramatically different tomorrow.&rdquo; <footer>Richard Bach</footer></blockquote>
+# <blockquote>&ldquo;Life belongs to the living, and he who lives must be prepared for changes.&rdquo; <footer>Johann Wolfgang von Goethe</footer></blockquote>
