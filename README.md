@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Life belongs to the living, and he who lives must be prepared for changes.&rdquo; <footer>Johann Wolfgang von Goethe</footer></blockquote>
+# <blockquote>&ldquo;Heal the past, live the present, dream the future.&rdquo; <footer>Mary Engelbreit</footer></blockquote>
