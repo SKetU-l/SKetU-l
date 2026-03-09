@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Heal the past, live the present, dream the future.&rdquo; <footer>Mary Engelbreit</footer></blockquote>
+# <blockquote>&ldquo;It does not do to dwell on dreams and forget to live, remember that.&rdquo; <footer>Albus Dumbledore</footer></blockquote>
