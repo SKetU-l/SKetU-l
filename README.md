@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad.&rdquo; <footer>Harry S. Truman</footer></blockquote>
+# <blockquote>&ldquo;In the End, we will remember not the words of our enemies, but the silence of our friends.&rdquo; <footer>Martin Luther King, Jr.</footer></blockquote>
