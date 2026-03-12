@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;In the End, we will remember not the words of our enemies, but the silence of our friends.&rdquo; <footer>Martin Luther King, Jr.</footer></blockquote>
+# <blockquote>&ldquo;If you don't like something, change it. If you can't change it, change your attitude.&rdquo; <footer>Maya Angelou</footer></blockquote>
