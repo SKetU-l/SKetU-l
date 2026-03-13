@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you don't like something, change it. If you can't change it, change your attitude.&rdquo; <footer>Maya Angelou</footer></blockquote>
+# <blockquote>&ldquo;All wealth is the product of labor.&rdquo; <footer>John Locke</footer></blockquote>
