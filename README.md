@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;All wealth is the product of labor.&rdquo; <footer>John Locke</footer></blockquote>
+# <blockquote>&ldquo;If light is in your heart, you will find your way home.  &rdquo; <footer>Rumi</footer></blockquote>
