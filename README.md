@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience.&rdquo; <footer>Denis Waitley</footer></blockquote>
+# <blockquote>&ldquo;Sometimes it is harder to deprive oneself of a pain than of a pleasure.&rdquo; <footer>F. Scott Fitzgerald</footer></blockquote>
