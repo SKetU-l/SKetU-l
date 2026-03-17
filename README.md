@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Sometimes it is harder to deprive oneself of a pain than of a pleasure.&rdquo; <footer>F. Scott Fitzgerald</footer></blockquote>
+# <blockquote>&ldquo;Appear weak when you are strong, and strong when you are weak.&rdquo; <footer>Sun Tzu</footer></blockquote>
