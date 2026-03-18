@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Appear weak when you are strong, and strong when you are weak.&rdquo; <footer>Sun Tzu</footer></blockquote>
+# <blockquote>&ldquo;A fool sees himself as another, but a wise man sees others as himself.&rdquo; <footer>Dogen</footer></blockquote>
