@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You have to keep breaking your heart until it opens.&rdquo; <footer>Rumi</footer></blockquote>
+# <blockquote>&ldquo;Don't listen to the person who has the answers; listen to the person who has the questions.&rdquo; <footer>Albert Einstein</footer></blockquote>
