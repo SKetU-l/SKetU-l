@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Don't listen to the person who has the answers; listen to the person who has the questions.&rdquo; <footer>Albert Einstein</footer></blockquote>
+# <blockquote>&ldquo;Numbing the pain for a while will only make it worse when you finally feel it.&rdquo; <footer>Albus Dumbledore</footer></blockquote>
