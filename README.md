@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Outstanding people have one thing in common: an absolute sense of mission.  &rdquo; <footer>Zig Ziglar</footer></blockquote>
+# <blockquote>&ldquo;Any idea, plan, or purpose may be placed in the mind through repetition of thought.&rdquo; <footer>Napoleon Hill</footer></blockquote>
