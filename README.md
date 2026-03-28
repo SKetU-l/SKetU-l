@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;There is a difference between giving directions and giving direction.&rdquo; <footer>Simon Sinek</footer></blockquote>
+# <blockquote>&ldquo;The past has no power over the present moment. &rdquo; <footer>Eckhart Tolle</footer></blockquote>
