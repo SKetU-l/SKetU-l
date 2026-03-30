@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.&rdquo; <footer>Sigmund Freud</footer></blockquote>
+# <blockquote>&ldquo;You have power over your mind - not outside events. Realize this, and you will find strength.&rdquo; <footer>Marcus Aurelius</footer></blockquote>
