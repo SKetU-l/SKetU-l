@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;You have power over your mind - not outside events. Realize this, and you will find strength.&rdquo; <footer>Marcus Aurelius</footer></blockquote>
+# <blockquote>&ldquo;If you can't explain it simply, you don't understand it well enough.&rdquo; <footer>Albert Einstein</footer></blockquote>
