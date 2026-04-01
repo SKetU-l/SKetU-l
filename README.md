@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;If you can't explain it simply, you don't understand it well enough.&rdquo; <footer>Albert Einstein</footer></blockquote>
+# <blockquote>&ldquo;If we are not able to smile, then the world will not have peace.&rdquo; <footer>Thich Nhat Hanh</footer></blockquote>
