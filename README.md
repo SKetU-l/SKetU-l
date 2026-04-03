@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;Find something you love and do it better than everyone else.&rdquo; <footer>Gurbaksh Chahal</footer></blockquote>
+# <blockquote>&ldquo;Reversing your treatment of the man you have wronged is better than asking his forgiveness.&rdquo; <footer>Elbert Hubbard</footer></blockquote>
