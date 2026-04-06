@@ -10,4 +10,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SKetU-l&style=flat&color=dc143c" alt="SKetU-l" /> </p>
 
-# <blockquote>&ldquo;A warrior does not give up what he loves, he finds the love in what he does.&rdquo; <footer>Dan Millman</footer></blockquote>
+# <blockquote>&ldquo;Talent is luck. The important thing in life is courage.&rdquo; <footer>Woody Allen</footer></blockquote>
